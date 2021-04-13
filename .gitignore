@@ -12,3 +12,6 @@ _site/
 .bundle
 .bundle/
 vendor/
+
+# Ignore Code files
+*.code-workspace
