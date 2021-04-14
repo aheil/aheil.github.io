@@ -495,7 +495,7 @@ header {
 /* jumbotron */
 .jumbotron {
     background-color: var(--main-background-color) !important;
-    background-image: url('https://images.pexels.com/photos/1037992/pexels-photo-1037992.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260');
+    background-image: url('../img/bg.jpg');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -524,10 +524,22 @@ header {
     font-size: 35px;
 }
 
+.jumbotron-heading-white{
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 35px;
+}
+
 .lead {
     font-size: 1.30rem !important;
     font-weight: 600;
     color: #111 !important;
+}
+
+.lead-white {
+    font-size: 1.30rem !important;
+    font-weight: 600;
+    color:whitesmoke !important;
 }
 
 .fa {
