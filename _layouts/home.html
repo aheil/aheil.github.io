@@ -5,12 +5,18 @@ layout: default
 <script>
   $(document).ready(function () {
     $("#typewriteText").typewrite({
-      actions: [{ type: "{{site.typewrite-text}}" }]
+      actions: [
+        { type: "{{site.typewrite-text}}" },
+        { delay: 3500 },
+        { remove: { num: 35, type: 'stepped' } },
+        { delay: 1500 },
+        { type: "{{site.typewrite-text-rewrite}}" }
+      ]
     });
   });
 </script>
 <div class="jumbotron" style="text-align: center;">
-  <!-- <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" /> -->
+  <img class="author-profile-img" src="{{site.url}}{{site.baseurl}}/assets/img/profile.png" />
   <p class="jumbotron-heading-white">Hi, ich bin {{site.author}} !</p>
   <p class="lead-white" id="typewriteText"></p>
 </div>
