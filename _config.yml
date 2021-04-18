@@ -13,10 +13,12 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Podcast    
+    - text: Podcast <i class="fas fa-link"></i>
       url: https://www.hack-the-planet.tv
-    - text: YouTube 
-      url: https://www.youtube.com/c/andreasheil    
+    - text: YouTube <i class="fas fa-link"></i>
+      url: https://www.youtube.com/c/andreasheil 
+    - text: Lehre & Forschung <i class="fas fa-link"></i>
+      url: https://prof.aheil.de
 #    - text: Gallery
 #      url: /gallery
 #    - text: Shop
@@ -79,6 +81,7 @@ author_project_details:
 twitter_username: aheil
 github_username:  aheil
 #facebook_username: johndoe
+orcid_id: 0000-0002-7819-4656
 linkedin_username: aheil
 #behance_username: johndoe
 #instagram_username: johndoe

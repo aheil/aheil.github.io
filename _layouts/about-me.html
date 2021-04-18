@@ -38,6 +38,10 @@ layout: default
         <a class="social-link" href="http://behance.net/{{ site.behance_username }}">
           <i class="fab fa-behance"></i>
         </a>
+        {% endif %} {% if site.orcid_id %}
+        <a class="social-link" href="https://orcid.org/{{ site.orcid_id }}">
+          <i class="fab fa-orcid"></i>
+        </a>
         {% endif %} {% if site.linkedin_username %}
         <a class="social-link" href="http://linkedin.com/in/{{ site.linkedin_username }}">
           <i class="fab fa-linkedin-in"></i>
@@ -89,7 +93,8 @@ layout: default
 
     <div class="card">
       <h1 class="card-title">Über mich</h1>
-      Mein Name ist Andreas Heil, ich bin Professor für Software Engineering an der Hochschule in Heilbronn. Diese Webseite, der Blog als auch der Inhalt sind meine eigenen Meinungnen und r
+      Mein Name ist Andreas Heil, ich bin Professor für Software Engineering an der Hochschule in Heilbronn. Diese
+      Webseite, der Blog als auch der Inhalt sind meine eigenen Meinungnen und r
 
       Über die Jahre konnte ich unter Nutzung aktuellster Ansätze beim Aufbau neuer erfolgreicher Produkt-Teams als auch
       der Transformation existierender exzellenter Produkt-Teams in noch bessere Produkt-Teams unterstützen.
