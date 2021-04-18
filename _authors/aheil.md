@@ -3,7 +3,7 @@ name: Andreas Heil
 username: aheil
 bio: "Hi, meine Name ist Andreas Heil. Professor für Software Engineering."
 site: http://www.aheil.de
-avatar: profile.png
+avatar: aheil.png
 email: info@aheil.de
 social:
     - title: "github"
