@@ -1,12 +1,15 @@
 ---
 layout: post
 title: Hallo Welt - Website Hosting mit Jekyll und GitHub
-category: Web 
+category: Web
+summary: Bloggen via Markdown mit Git und Jekyll
+thumbnail: /assets/img/posts/thumbnails/wfh.jpg
+permalink: /blog/website-hosting-mit-jekyll-und-gitHub
 ---
 
 ## tl;dr
 
-Bloggen mit Markdown und Git mit Jekyll.
+Bloggen via Markdown mit Git und Jekyll.
 
 ## Ausgangspunkt
 
