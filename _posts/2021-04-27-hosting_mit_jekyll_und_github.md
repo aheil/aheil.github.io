@@ -9,7 +9,7 @@ permalink: /blog/website-hosting-mit-jekyll-und-gitHub
 
 ## tl;dr
 
-Bloggen via Markdown mit Git und Jekyll.
+Bloggen via Markdown mit Git und Jekyll auf GitHub.
 
 ## Ausgangspunkt
 
@@ -50,3 +50,11 @@ Einer der Vorteile bei der Verwendung von GitHub Pages, SSL Verschlüsselung wir
 ![](/assets/img/posts/2021-04-27-11-48-59.png)
 
 In diesem Sinne `Hallo Welt`! 
+
+## Update 
+
+Wer seine Domain ebenfalls für E-Mails nutzt, sollte unbedingt den [MX-Eintrag](https://de.wikipedia.org/wiki/MX_Resource_Record) prüfen. In meinem Fall habe ich zwei MX-Einträge angelegt, einmal für die Apex-Domain, einmal für den Wildcard-Eintrag. Wird eine E-Mail verschickt, wird über den MX-Eintrag ermittelt, an welchen Host eine E-Mail geschickt werden soll.   
+
+In konkreten Fall waren beide Einträge auf den Host `aheil.de` gesetzt. Nach der Umstellung der Apex-Domain auf die GitHub Server war bedeutet dies jedoch, dass an eine der GitHub-IPs geroutet wird. Damit die Mails korrekt geroutet werden ist es also nötig einen Host einzutragen, dessen IP-Adresse der des Mail Servers entspricht. 
+
+![](/assets/img/posts/2021-05-09-23-35-39.png)
