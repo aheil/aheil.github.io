@@ -47,7 +47,8 @@ layout: default
     host: "https://comments.aheil.de",
     site_id: 'YOUR_SITE_ID',
     components: ['embed'],
-    theme: 'light'
+    theme: 'dark',
+    locale: 'de'
   };
 
 
@@ -90,9 +91,9 @@ layout: default
 <script>
   let loadComments = function (e, n) {
     remark_config.theme = sessionStorage.getItem('theme');
-    for (var o = 0; o < e.length; o++) { 
-      var r = n.createElement("script"), c = ".js", d = n.head || n.body; 
-      "noModule" in r ? (r.type = "module", c = ".mjs") : r.async = !0, r.defer = !0, r.src = remark_config.host + "/web/" + e[o] + c, d.appendChild(r) 
+    for (var o = 0; o < e.length; o++) {
+      var r = n.createElement("script"), c = ".js", d = n.head || n.body;
+      "noModule" in r ? (r.type = "module", c = ".mjs") : r.async = !0, r.defer = !0, r.src = remark_config.host + "/web/" + e[o] + c, d.appendChild(r)
     }
   };
   loadComments(remark_config.components || ["embed"], document);
