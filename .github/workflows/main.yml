@@ -18,7 +18,9 @@ jobs:
         GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
         GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
 
+  # https://github.com/foo-software/lighthouse-check-action
   lighthouse:
+    needs: [build] 
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
