@@ -1,4 +1,4 @@
-# Theme 
+# Theme based ignores  
 
  Local Site Directories
 _site/
@@ -16,3 +16,8 @@ Gemfile.lock
 # Ignore Code files
 *.code-workspace
 .vscode/
+_posts/templates/*
+_projects/templates/*
+
+Gemfile
+Gemfile.*
