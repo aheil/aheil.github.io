@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Andreas Heil
   image             : aheil.jpg
-  behance           : your_username
+#  behance           : your_username
 # dribbble          : your_username
   email             : inf@aheil.de
 #  facebook          : your_username
@@ -33,7 +33,7 @@ author:
 # gitlab            : your_username
   instagram         : aheil
 # kaggle            : your_username
-#  linkedin          : your_username
+  linkedin          : aheil
 #  medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -42,7 +42,7 @@ author:
   twitch            : profaheil
   twitter           : aheil
 # vimeo             : your_username
-# youtube           : your_channel_name
+  youtube           : c/AndreasHeil
 # keybase           : your_username
 
 
