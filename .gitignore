@@ -16,8 +16,7 @@ Gemfile.lock
 # Ignore Code files
 *.code-workspace
 .vscode/
-_posts/templates/*
-_projects/templates/*
+templates/*
 
 Gemfile
 Gemfile.*
