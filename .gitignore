@@ -18,5 +18,5 @@ Gemfile.lock
 .vscode/
 templates/*
 
-Gemfile
-Gemfile.*
+#Gemfile
+Gemfile.lock
