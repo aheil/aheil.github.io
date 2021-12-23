@@ -7,7 +7,7 @@ weight: 3
 
 # **Über mich**
 
-Mein Name ist **{{ site.author.name }}** und bin Professor für Software Engineering an der Hochschule in Heilbronn und rot seit 2021 Studiengangsleiter für den Studiengang Medizinische Informatik Bachelor (MIB), der in Heilbronn gemeinsam mit der Universität in Heidelberg gelehrt wird.
+Mein Name ist **{{ site.author.name }}** und bin Professor für Software Engineering an der Hochschule in Heilbronn und derzeit Studiengangleiter für den Studiengang Medizinische Informatik Bachelor (MIB), der in Heilbronn gemeinsam mit der Universität in Heidelberg gelehrt wird.
 
 Ich habe an der Universität Karlsruhe (TH) Software Engineering und das Internet studiert und dort meinen Abschluss als Diplom-Informatiker erhalten und wurde an der Technischen Universität in Chemnitz im Bereich Web Engineering promoviert. Microsoft meinte ich bin so gut, dass ich ein Stipendium im [Microsoft Research PhD Scholarship Programme](https://www.microsoft.com/en-us/research/academic-program/phd-scholarship-europe-middle-east-africa/) erhielt. 
 
