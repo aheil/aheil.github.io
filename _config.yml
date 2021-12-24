@@ -4,7 +4,7 @@ description         : >-
                       Professor :man_teacher: by day , Nerd and Geek :nerd_face: by night
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : aheil/aheil.github.io             # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
+remote_theme        : aheil/portfolYOU
 
 
 ### Plugins ###
