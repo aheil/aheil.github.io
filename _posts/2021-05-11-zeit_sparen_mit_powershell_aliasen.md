@@ -49,11 +49,11 @@ Set-Alias jekd execJekyllDrafts
 
 Im Profile und etwas ausführlicher sieht das Ganze dann so aus: 
 
-![](../assets/img/posts/2021-05-11-profile.png)
+![](../assets/img/2021-05-11-profile.png)
 
 Ein Killerfeature ist `Get-Alias`, mit dem sich auch via Wildcards nach Aliasen suchen lässt.
 
-![](../assets/img/posts/2021-05-11-ps.png)
+![](../assets/img/2021-05-11-ps.png)
 
 Mit `jekd` bzw. `jekw` lässt sich somit der lokale Server einmal mit und einmal ohne die Entwürfe starten. 
 
