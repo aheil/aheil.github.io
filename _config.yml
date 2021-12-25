@@ -53,6 +53,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  lectures:
+    output: true
+    permalink: /lectures/:name
 
 
 ### Disqus ###
@@ -79,6 +82,11 @@ defaults:
       type: "posts"
     values:
       comments: false                                   # Set to true to enable disqus comments
+  - scope:
+      path: ""
+      type: "lectures"
+    values:
+      layout: "page"
 
 ### Exclude from processing ###
 exclude:
