@@ -53,7 +53,7 @@ Danach sollte Ansible nach dem Aufruf des Playbooks nüchtern nach dem Passwort 
 SSH password:
 ```
 
-## Versuche 2 - Keyfile
+## Versuch 2 - Keyfile
 
 Resultiert das Ausführen des Playbooks noch immer im ursprüngliche Fehler kann auch noch das entsprechende Keyfile spezifiziert werden. In diesem Fall werden die Einstellungen aus `~/.ssh/config` ignoriert. 
 
