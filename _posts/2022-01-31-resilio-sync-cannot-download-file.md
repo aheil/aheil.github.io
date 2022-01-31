@@ -1,5 +1,5 @@
 ---
-title: Resilio Sync: Cannot download Probleme beheben
+title: Resilio Sync - Cannot download Probleme beheben
 tags: [Automatisierung]
 description: Resilio weigert sich unter Windows Dateien zu synchronisieren - das lässt sich mit wenigen Handgriffen beheben.
 ---
