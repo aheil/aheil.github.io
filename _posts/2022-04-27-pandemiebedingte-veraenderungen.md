@@ -10,7 +10,7 @@ Mein Postfach läuft voll, Student:innen machen sich weniger Notizen, Online-Ter
 
 ## Normalbetrieb
 
-Seit ein paar Wochen befindet sich unserer Hochschule wieder im Normalbetrieb. Mehr oder weniger. Präsenzunterricht ist angeordnet, Masken sind weiterhin in den Veranstaltungen Pflicht, jeder darf rein - und raus. Keine Eingangskontrollen für nG{+} für n &#2208; {2, 3}.
+Seit ein paar Wochen befindet sich unserer Hochschule wieder im Normalbetrieb. Mehr oder weniger. Präsenzunterricht ist angeordnet, Masken sind weiterhin in den Veranstaltungen Pflicht, jeder darf rein - und raus. Keine Eingangskontrollen für nG{+} für n &#x2208; {2, 3}.
 
 ## Ein Wort zu E-Mails
 
