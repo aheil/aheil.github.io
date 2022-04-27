@@ -1,10 +1,10 @@
 ---
 title: Pandemiebedingte Veränderungen
-tags: [Test]
+tags: [Twittercampus] [Hochschule]
 description: Was hat sich eigentlich seit Pandemiebeginn alles verändert? 
 ---
 
-## tl;dr 
+## tl;dr
 
 Mein Postfach läuft voll, Student:innen machen sich weniger Notizen, Online-Termine mit Student:inne und Unternehmen klappen erschreckend gut - agile Methoden beibringen ist eine Katastrophe. 
 
