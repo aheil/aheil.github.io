@@ -1,6 +1,6 @@
 ---
 title: Pandemiebedingte Veränderungen
-tags: [TwitterCampus]
+tags: [Test]
 description: Was hat sich eigentlich seit Pandemiebeginn alles verändert? 
 ---
 
