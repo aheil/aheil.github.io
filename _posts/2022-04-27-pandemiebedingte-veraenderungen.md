@@ -1,6 +1,6 @@
 ---
 title: Pandemiebedingte Veränderungen
-tags: [Twittercampus] [Hochschule]
+tags: Twittercampus Hochschule
 description: Was hat sich eigentlich seit Pandemiebeginn alles verändert? 
 ---
 
