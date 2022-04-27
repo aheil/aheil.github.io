@@ -1,6 +1,6 @@
 ---
 title: Pandemiebedingte Veränderungen
-tags: [Hochschule] [TwitterCampus]
+tags: [TwitterCampus]
 description: Was hat sich eigentlich seit Pandemiebeginn alles verändert? 
 ---
 
@@ -10,7 +10,7 @@ Mein Postfach läuft voll, Student:innen machen sich weniger Notizen, Online-Ter
 
 ## Normalbetrieb
 
-Seit ein paar Wochen befindet sich unserer Hochschule wieder im Normalbetrieb. Mehr oder weniger. Präsenzunterricht ist angeordnet, Masken sind weiterhin in den Veranstaltungen Pflicht, jeder darf rein - und raus. Keine Eingangskontrollen für nG{+} für n &2208; {2, 3}.
+Seit ein paar Wochen befindet sich unserer Hochschule wieder im Normalbetrieb. Mehr oder weniger. Präsenzunterricht ist angeordnet, Masken sind weiterhin in den Veranstaltungen Pflicht, jeder darf rein - und raus. Keine Eingangskontrollen für nG{+} für n &#2208; {2, 3}.
 
 ## Ein Wort zu E-Mails
 
@@ -41,7 +41,7 @@ Just in diesem Moment harren derer 33 E-Mails in meinem Postfach, die sich vehem
 
 ## Was online klappt 
 
-Panbdemiebedingt habe ich alle studentischen Termine (Vorgespräche zu Abschlussarbeiten, Sprechstunde und gemeinsame Treffen mit betrieblichen Betreuern) auf Online-Plattformen verlegt. Das klappt erschreckend gut - in 99% der Fälle Schalten die Student:innen die Kamera ein. Das zeigt, die "schwarze Kacheln" ist ein Phänomen des digitalen Klassenraums und nicht weil der Dozent dabei ist. Definitiv werde ich dies weiter so anbieten. 
+Pandemiebedingt habe ich alle studentischen Termine (Vorgespräche zu Abschlussarbeiten, Sprechstunde und gemeinsame Treffen mit betrieblichen Betreuern) auf Online-Plattformen verlegt. Das klappt erschreckend gut - in 99% der Fälle Schalten die Student:innen die Kamera ein. Das zeigt, die "schwarze Kacheln" ist ein Phänomen des digitalen Klassenraums und nicht weil der Dozent dabei ist. Definitiv werde ich dies weiter so anbieten. 
 
 Den Unternehmen oder eher die betrieblichen Vertretern kommt das Online-Format entgegen. Wir sparen Reisezeit. Die Präsentationen in Kick-Off Terminen funktionieren einwandfrei. Auch dieser Rahmen wird beibehalten. 
 
