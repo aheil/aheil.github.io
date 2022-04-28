@@ -15,10 +15,10 @@ Eher zufällig bin ich über meine "Bubble" auf den Hashtag #TwitterCampus gesto
 Geschrieben ist das Ganze in Python und [auf GitHub verfügbar](https://github.com/fussballlinguist/bots/blob/master/twcampus_bot). 
 
 
-Der Tw!ttercampus Bot hat bisher (Stand 04/2022) nur 418 Follower, weshalb etwas Werbung sicherlich angebracht ist. Wer also über das Thema digitale Hochschullehre twittert sollte ohne Scheu den Hashtag #TwitterCampus setzen und dem Bot folgen. 
+Der Tw!ttercampus Bot hat bisher (Stand 04/2022) nur 418 Follower, weshalb etwas Werbung sicherlich angebracht ist. Wer also über das Thema digitale Hochschullehre twittert, sollte ohne Scheu den Hashtag #TwitterCampus setzen und dem Bot folgen. 
 
-Ich bin ab sofort auf jeden fall dabei.  
+Ich bin ab sofort auf jeden Fall dabei.  
 
 ## Hashtag
 
-Tags verwenden wir (ITler) schon relativ lange in zahlreichen Tools um Artefakte (Tickets, Dokumente etc.) zu kennzeichnen und zu klassifizieren. Selbst auf Dateieben ist dies möglich, hat sich aber niemals richtig durchgesetzt. Erst mit Twitter haben sich Tags in form der [Hashtags](https://www.urbandictionary.com/define.php?term=hashtag) durchgesetzt. Nicht nur Twitter, auch andere Plattformen wie Instagram und sogar manche Printmedien und auf Werbungen werden Hashtags verwendet.
+Tags verwenden wir (ITler) schon relativ lange in zahlreichen Tools um Artefakte (Tickets, Dokumente etc.) zu kennzeichnen und zu klassifizieren. Selbst auf Dateieben ist dies möglich, hat sich aber niemals richtig durchgesetzt. Erst mit Twitter haben sich Tags in Form der [Hashtags](https://www.urbandictionary.com/define.php?term=hashtag) durchgesetzt. Nicht nur Twitter, auch andere Plattformen wie Instagram und sogar manche Printmedien und auf Werbungen werden Hashtags verwendet.
