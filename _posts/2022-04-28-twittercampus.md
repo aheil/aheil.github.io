@@ -6,11 +6,11 @@ description: Was hat es eigentlich mit dem Hashtag TwitterCampus auf sich?
 
 ## tl;dr
 
-Das Hastag [Twittercampus](https://twitter.com/search?q=%23twittercampus&src=typed_query) ist eine einfach Lösung, Diskussionen rund um das Thema digitale Hochschullehre auf Twitter zu folgen.
+Das Hastag [#TwitterCampus](https://twitter.com/search?q=%23twittercampus&src=typed_query) ist eine einfach Lösung, Diskussionen rund um das Thema digitale Hochschullehre auf Twitter zu folgen.
 
 ## Nicht gesucht, aber gefunden
 
-Eher zufällig bin ich über meine "Bubble" auf den Hashtag TwitterCampus gestoßen. Was verbirgt sich dahinter? 2020 hat Simon Meier-Vieracker einen Bot entwickelt, der jeden Tweet mit dem Hashtag TwitterCampus retweetet. Inspiriert war er durch den Bot [@Bot_TwLehrerZ](https://twitter.com/Bot_TwLehrerZ) worauf er seinen eigenen Bot [@twcampus_bot](https://twitter.com/twcampus_bot) [entwickelt hat](https://lingdrafts.hypotheses.org/1529). 
+Eher zufällig bin ich über meine "Bubble" auf den Hashtag #TwitterCampus gestoßen. Was verbirgt sich dahinter? 2020 hat Simon Meier-Vieracker einen Bot entwickelt, der jeden Tweet mit dem Hashtag TwitterCampus retweetet. Inspiriert war er durch den Bot [@Bot_TwLehrerZ](https://twitter.com/Bot_TwLehrerZ) worauf er seinen eigenen Bot [@twcampus_bot](https://twitter.com/twcampus_bot) [entwickelt hat](https://lingdrafts.hypotheses.org/1529). 
 
 Geschrieben ist das Ganze in Python und [auf GitHub verfügbar](https://github.com/fussballlinguist/bots/blob/master/twcampus_bot). 
 
