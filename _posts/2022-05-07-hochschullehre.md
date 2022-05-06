@@ -16,7 +16,7 @@ Unabhängig von den regelmäßigen Befragungen unserer Student:innen, habe ich d
 - Konserven sind in. YouTube - Ganz im Sinne des Flipped Classrooms, Vorlesungen aufzeichnen scheint anzukommen, die Videos können zeitsouverän abgerufen werden und das Vor- und Zurückspulen ist den Student:innen wichtig. 
 - Animationen auf den Folien, Erklärvideos, Zusammenhänge animiert darstellen. Das geht, es gibt dafür auch Tools. Scheint eine interessante Idee zu sein und wird von mir nachverfolgt. 
 - Übungsaufgaben zum Überprüfen des individuellen Lernerfolgs - das hat mich positiv überrascht. Das möchte man in der Tat eigenverantwortlich durchführen - auch wenn es dafür keine Credits gibt. 
--	Bücher - nun habe ich in einer Vorlesung ein Open Source Buch (OER) gewählt und die Student:innen wollen das doch als "Hardware". Eine der leichteren Übungen, unsere Bibliothek hat mir am gleichen Tag ein paar Exemplare bestellt.
+- Bücher - nun habe ich in einer Vorlesung ein Open Source Buch (OER) gewählt und die Student:innen wollen das doch als "Hardware". Eine der leichteren Übungen, unsere Bibliothek hat mir am gleichen Tag ein paar Exemplare bestellt.
 
 ## Fazit
 
