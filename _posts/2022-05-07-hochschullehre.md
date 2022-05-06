@@ -1,7 +1,7 @@
 ---
 title: Hochschullehre Reloaded
 tags: Twittercampus 
-description: Was erwarten Student:innen eigentlich nach den Corona-Semestern von der Lehre?
+description: "Was erwarten Student\:innen eigentlich nach den Corona-Semestern von der Lehre?"
 ---
 
 ## tl;dr
