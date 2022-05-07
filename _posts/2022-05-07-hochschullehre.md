@@ -1,12 +1,12 @@
 ---
 title: Hochschullehre Reloaded
 tags: Twittercampus 
-description: Was erwarten Studierende eigentlich nach den Corona Semestern von der Lehre?
+description: Was erwarten Student:innen eigentlich nach 3 Semestern Corona-Campus und Online-Lehre?
 ---
 
 ## tl;dr
 
-Mehr Praxis, weniger Vorlesung, Digital ja, Online, nein danke.  
+Mehr Praxis, weniger Vorlesung, Digital ja, Online, nicht wirklich.  
 
 ## Nachgefragt
 

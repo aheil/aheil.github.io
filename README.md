@@ -3,3 +3,11 @@
 # aheil.de
 
 Dieses Repository ist die Code-Base für meiner persönlichen Webseite unter [aheil.de](https://aheil.de).
+
+## 
+
+Bauen und Testen der Seite:
+
+``` bundle exec jekyll serve --incremental```
+
+``` bundle exec jekyll build --watch ```
