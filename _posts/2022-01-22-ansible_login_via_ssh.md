@@ -55,7 +55,7 @@ SSH password:
 
 ## Versuch 2 - Keyfile
 
-Resultiert das Ausführen des Playbooks noch immer im ursprüngliche Fehler kann auch noch das entsprechende Keyfile spezifiziert werden. In diesem Fall werden die Einstellungen aus `~/.ssh/config` ignoriert. 
+Resultiert das Ausführen des Playbooks noch immer im ursprüngliche Fehler, kann auch noch das entsprechende Keyfile spezifiziert werden. In diesem Fall werden die Einstellungen aus `~/.ssh/config` ignoriert. 
 
 ```bash
  sudo ansible-playbook playbook.yml -i hosts --ask-key --key-file "~/.ssh/id_ed25519"
