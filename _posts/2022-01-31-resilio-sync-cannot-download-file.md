@@ -20,7 +20,7 @@ Die Lösung für das Problem findest sich auf den [Hilfeseiten von Resilio](http
 
 ## Lösung
 
-In zu synchronisierenden Ordner (des eigene Systems) im Ordner `.sync`die Datei `Streamlists`editeiren und sämtliche Zeilen, die mit `com.apple.` beginnen auskommentieren (mit `#`). 
+In zu synchronisierenden Ordner (des eigene Systems) im Ordner `.sync`die Datei `Streamlists`editieren und sämtliche Zeilen, die mit `com.apple.` beginnen auskommentieren (mit `#`). 
 
 ![Modifizierte StreamList Konfigurationsdatei](../assets/img/2022-01-31-10-12-12.png)
 
