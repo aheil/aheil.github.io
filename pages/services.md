@@ -11,7 +11,7 @@ Theoretische Grundlagen zählen nichts, ohne die zugehörige Praxis.
 
 Über die Jahre konnte ich unter Nutzung aktuellster Ansätze beim Aufbau neuer erfolgreicher Produkt-Teams als auch der Transformation existierender Produkt-Teams in noch bessere Produkt-Teams unterstützen.
 
-Über zwei Jahrzehnte Erfahrung als Software-Entwickler, Architekt, Entwicklungsleiter und Produktmanager ermöglichend hierbei einen ganzheitlichen Blick auf die Entwicklung und den Betrieb moderner Software und Software-Architekturen.</p>
+Über zwei Jahrzehnte Erfahrung als Software-Entwickler, Architekt, Entwicklungsleiter und Produktmanager ermöglichend hierbei einen ganzheitlichen Blick auf die Entwicklung und den Betrieb moderner Software und Software-Architekturen.
 
 ## Ihre Situation:
 
