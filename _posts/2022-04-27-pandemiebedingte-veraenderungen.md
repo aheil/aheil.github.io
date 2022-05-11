@@ -65,7 +65,7 @@ Sicherlich gehen die Meinungen auseinander, ob man agile Transformation digital 
 
 > Lasst um Himmels Willen den Leuten das Papier.
 
-Für Student:innen, die die Prozesse nicht im Unternehmen in funktionierenden Teams lernen, ist es schwer die - doch sonderlich anmutenden - Prozesse aus den Lehrbüchern nachzuvollziehen, dabei haben wir in der agilen Welt so viele praktische Übungen um diese Prozesse zu erlernen. 
+Für Student:innen, die die Prozesse nicht im Unternehmen in funktionierenden Teams lernen, ist es schwer die - doch sonderlich anmutenden - Prozesse aus den Lehrbüchern nachzuvollziehen, dabei haben wir in der agilen Welt so viele praktische Übungen, um diese Prozesse zu erlernen. 
 
 ## All togehter 
 
