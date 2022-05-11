@@ -38,13 +38,13 @@ Wird das Repository in GutHub direkt mit der Namen `{githubUser}.github.io` ange
 
 Folgt man der [Anleitungen auf GitHub](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site) sollten die DNS Eintrag so bzw. so ähnlich ausschauen.
 
-![](/assets/img/posts/2021-04-27-11-26-47.png)
+![](../assets/img/2021-04-27-11-26-47.png)
 
 ## SSL
 
 Einer der Vorteile bei der Verwendung von GitHub Pages, SSL Verschlüsselung wird automatisch angeboten, sobald die Domain korrekt konfiguriert wurde. In diesem Fall dauert es einige Minuten bis das Zertifikat ausgestellt und provisioniert wurde. Danach auf jeden Fall `Enforce HTTPS` auswählen, damit die Seite nur via *https* aufgerufen  werden kann. 
 
-![](/assets/img/posts/2021-04-27-11-48-59.png)
+![](../assets/img/2021-04-27-11-48-59.png)
 
 In diesem Sinne `Hallo Welt`! 
 
@@ -54,4 +54,4 @@ Wer seine Domain ebenfalls für E-Mails nutzt, sollte unbedingt den [MX-Eintrag]
 
 In konkreten Fall waren beide Einträge auf den Host `aheil.de` gesetzt. Nach der Umstellung der Apex-Domain auf die GitHub Server war bedeutet dies jedoch, dass an eine der GitHub-IPs geroutet wird. Damit die Mails korrekt geroutet werden ist es also nötig einen Host einzutragen, dessen IP-Adresse der des Mail Servers entspricht. 
 
-![](/assets/img/posts/2021-05-09-23-35-39.png)
+![](../assets/img/2021-05-09-23-35-39.png)
