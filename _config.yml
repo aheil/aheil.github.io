@@ -25,6 +25,7 @@ nav_exclude:                                            # The following paths ar
   - pages/openthesis.md
   - pages/finishedthesis.md
   - pages/supervising.md
+  - pages/grading.md
 
 
 ### Author Info ###
