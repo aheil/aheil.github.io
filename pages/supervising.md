@@ -15,6 +15,12 @@ Die Aufgabenstellung sollte üblicherweise im Umfeld einer Unternehmung entstehe
 
 Neben betrieblichen Themen gibt es auch Aufgabenstellungen, die sich aus meinen Forschungsinteressen ergeben. Angebotene Arbeiten finden Sie auf meiner [Seite mit offenen Abschlussarbeiten](../ausschreibungen/).
 
+## LAKS - Lern- und Arbeitskreis Studierende
+
+Alle Student:innen, welche von mir betreut werden können sich in regelmäßigen Treffen untereinander als auch mit mir im Rahmen des Lern- und Arbeitskreis Studierende (LAKS) in Bezug auf formale und Inhaltliche Themen in hinsichtlich der Abschlussarbeiten austauschen. 
+
+{% include elements/button.html link="https://ilias.hs-heilbronn.de/goto.php?target=crs_300248&client_id=iliashhn" text="ILIAS Raum"  size="sm" %}
+
 ## Vision und Visionsdokument
 
 Nach einer ersten Orientierungszeit erstellen Sie ein kurzes Dokument mit der Vision Ihres Vorhabens. Dieses Dokument enthält die Aufgabenbeschreibung aus Sicht des bzw. der Studierenden.

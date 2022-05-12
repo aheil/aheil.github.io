@@ -11,6 +11,8 @@ weight: 1
 
 # Lehre
 
+Sämtliche Informationen (Lernmaterial, Foliensätze, Skripte und Screencasts) erhalten Sie auf der Seite der jeweiligen Lehrveranstaltung. Lernmaterial wird, sofern nicht anders angegeben von mir unter einer Creative Commons 4.0 Lizenz als Open Educational Ressource (OER) veröffentlicht und darf gerne wiederverwendet werden. Die für meine Vorlesungen empfohlene und verwendete Literatur kann in meinem Semesteraparat in der Bibliothek am Campus Sontheim eingesehen werden. Zusätzlich sind alle von mir empfohlenen Bücher zusätzlich zur Ausleihe verfügbar. 
+
 Als Professor für Software Engineering unterrichte ich an der Fakultät für Informatik im Studiengang Software Engineering Bachelor folgende Fächer: 
 
 - Betriebssysteme (SEB2)
