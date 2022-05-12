@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leistungen
-permalink: /services/
+permalink: /leistungen/
 weight: 2
 ---
 
