@@ -14,7 +14,7 @@ Seit ein paar Wochen befindet sich unserer Hochschule wieder im Normalbetrieb. M
 
 ## Ein Wort zu E-Mails
 
-Der Wechsel an die Hochschule war ursprünglich erfrischend - mein E-Mail-Konsum hat um ca. 90% abgenommen. Geschrieben wurde nur wenn etwas wichtig war. Es gibt regelmäßige Sitzungen der Gremien, in denen alles Wichtige besprochen wird. Das Abarbeiten der Mails war in der Regel in weniger als einer Stunde am Tag möglich. Meist konnte ich dies schon morgens bzw. Abends in der Bahn erledigen. [Inbox Zero](Ihttps://www.43folders.com/43-folders-series-inbox-zero) war an der Tagesordnung.
+Der Wechsel an die Hochschule war ursprünglich erfrischend - mein E-Mail-Konsum hat um ca. 90% abgenommen. Geschrieben wurde nur wenn etwas wichtig war. Es gibt regelmäßige Sitzungen der Gremien, in denen alles Wichtige besprochen wird. Das Abarbeiten der Mails war in der Regel in weniger als einer Stunde am Tag möglich. Meist konnte ich dies schon morgens bzw. Abends in der Bahn erledigen. [Inbox Zero](https://www.43folders.com/43-folders-series-inbox-zero) war an der Tagesordnung.
 
 Wenn ich derzeit nicht in der Vorlesung oder einer anderen Lehrveranstaltung teilnehme, verbringe ich fast meine gesamte Zeit damit E-Mails zu "bearbeiten".
 
@@ -67,6 +67,6 @@ Sicherlich gehen die Meinungen auseinander, ob man agile Transformation digital 
 
 Für Student:innen, die die Prozesse nicht im Unternehmen in funktionierenden Teams lernen, ist es schwer die - doch sonderlich anmutenden - Prozesse aus den Lehrbüchern nachzuvollziehen, dabei haben wir in der agilen Welt so viele praktische Übungen, um diese Prozesse zu erlernen. 
 
-## All togehter 
+## All together 
 
 Es gibt einige Dinge, die ich sicherlich beibehalten werde, die die Pandemie überstehen werden. Einiges drehen wir zurück, Präsenzunterricht macht an einer Präsenzhochschule sicherlich Sinn. Digitale Formate werden aber den traditionellen Unterricht stetig ergänzen.
