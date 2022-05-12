@@ -9,7 +9,7 @@ weight: 5
 
 
 | --- | --- |
-| Seit 2021 | Prodekan der Fakultät für Informatik an der Hochschule Heilbronn |
+| Seit 2021 | Prodekan der Fakultät für Informatik und Studiengangleiter Medizinische Informatik Bachelor (MIB) an der Hochschule Heilbronn |
 | Seit 2019 | Professur für Methoden des Software Engineering an der Hochschule Heilbronn |
 | Seit 2018 | Gastdozent an der Dualen Hochschule Baden-Württemberg in Karlsruhe |
 | 2016 - 2019 | Produktverantwortlicher Enterprise Application Integration (EAI) bei dm-drogerie markt GmbH + Co. KG |
