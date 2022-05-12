@@ -35,7 +35,7 @@ Im Rahmen eines Lehrauftrages unterrichte ich überdies an der DHBW in Karlsruhe
 Sollten Sie auf der Suche nach einer interessanten Abschlussarbeit sein, werden Sie einen Blick in meine Ausschreibungen. Hier finden Sie interessante Arbeiten zu aktuellen Forschungsthemen im Bereich des Software Engineerings und spannende Arbeiten bei Unternehmen, die ich betreuen werden.
 
 {% include elements/button.html link="/hochschule/ausschreibungen/" text="Mehr Informationen" style="primary" size="sm" %}
-    
+
 #### Ablauf meiner Betreuung
 
 Sind Sie auf der Suche nach einem Betreuer für Ihre Arbeit? Gerne versuche ich Ihrem Betreuungswunsch nachzukommen und freue mich über Ihren Themenvorschlag. Um sich ein besseres Bild über den Ablauf von mir betreuter Arbeiten zu machen, können Sie sich diesbezüglich vorab informieren.
@@ -52,8 +52,5 @@ Gerne betreue ich auch Arbeiten, die außerhalb meines eigentlichen Forschungsge
 ### Für Unternehmen 
 
 Sollten Sie als Betreuer einer Unternehmung spannende Themen für unserer Student:innen anbieten wollen, die in meinen Kompetenzen liegt, kommen Sie gerne auf mich zu. Gerne übernehme ich die Betreuung und schreibe gemeinsam betreute Arbeiten für unserer Student:innen aus.
-
-{% include elements/button.html link="/hochschule/unternehmen/" text="Mehr Informationen" style="primary" size="sm" %}
-
 
 
