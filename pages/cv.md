@@ -17,7 +17,7 @@ weight: 5
 | 2012&nbsp;-&nbsp;2013 | Entwicklungsleiter bei REALTECH Deutschland GmbH |
 | 2011&nbsp;-&nbsp;2012 | Senior Software Developer bei STP Informationstechnologie AG |
 | 2004&nbsp;-&nbsp;2011 |Software Entwickler / Research Software Development Engineer bei Microsoft Deutschland GmbH und Microsoft Research Cambridge (UK) |
-| 1999&nbsp;-&nbsp;2004 | Software Entwickler (hilffsw. Mitarbeiter) am Karlsruhe Institute of Technology (KIT) |
+| 1999&nbsp;-&nbsp;2004 | Software Entwickler (hilfswiss. Mitarbeiter) am Karlsruhe Institute of Technology (KIT) |
 | 1998&nbsp;-&nbsp;1999 | Software Entwickler bei Campana & Schott Business Management Services GmbH |
 
 ## Wissenschaftlicher Werdegang
