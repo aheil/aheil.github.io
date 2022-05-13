@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über mich
+title: Publikationen
 permalink: /publikationen/
 weight: 3
 ---
