@@ -9,10 +9,10 @@ weight: 3
 
 ## Peer Reviewed
 
-- Steuer, S., Schweizer, S. T., Heil, A., Medical Apps in der Medizinprodukte-Anzeige-Datenbank des DIMDI, 65th Annual Meeting of the German Association for Medical Informatics, Biometry and Epidemiology (GMDS), Meeting of the Central European Network (CEN: German Region, Austro-Swiss Region and Polish Region) of the International Biometric Society (IBS), 06.09. - 09.09.2020, Berlin (online conference), doi:10.3205/20gmds201, urn:nbn:de:0183-20gmds1913 
+- Steuer, S., Schweizer, S. T., Heil, A., Medical Apps in der Medizinprodukte-Anzeige-Datenbank des DIMDI, 65th Annual Meeting of the German Association for Medical Informatics, Biometry and Epidemiology (GMDS), Meeting of the Central European Network (CEN: German Region, Austro-Swiss Region and Polish Region) of the International Biometric Society (IBS), 06.09. - 09.09.2020, Berlin (online conference), doi:10.3205/20gmds201, urn:nbn:&#8203;de:0183-20gmds1913 
 [Online Version](https://www.egms.de/static/en/meetings/gmds2020/20gmds201.shtml)
 
-- Schweizer, S. T., Steuer, S., Heil, A., Zertifizierungen von Gesundheits-Apps im deutschsprachigen App Store: Analyse, 65th Annual Meeting of the German Association for Medical Informatics, Biometry and Epidemiology (GMDS), Meeting of the Central European Network (CEN: German Region, Austro-Swiss Region and Polish Region) of the International Biometric Society (IBS), 06.09. - 09.09.2020, Berlin (online conference), doi:10.3205/20gmds191, urn:nbn:de:0183-20gmds1913
+- Schweizer, S. T., Steuer, S., Heil, A., Zertifizierungen von Gesundheits-Apps im deutschsprachigen App Store: Analyse, 65th Annual Meeting of the German Association for Medical Informatics, Biometry and Epidemiology (GMDS), Meeting of the Central European Network (CEN: German Region, Austro-Swiss Region and Polish Region) of the International Biometric Society (IBS), 06.09. - 09.09.2020, Berlin (online conference), doi:10.3205/20gmds191, urn:nbn:&#8203;de:0183-20gmds1913
 [Online Version](https://www.egms.de/static/en/meetings/gmds2020/20gmds191.shtml)
 
 - Heil, A., Smith, M. J., Brändle, A., Future Development Environments for Computational Scientists, Proceedings of the International Conference on Advanced Visual Interfaces, AVI 2010, 26.-28.05.2010, Rom, Italien, doi:10.1145/1842993.1843083 
