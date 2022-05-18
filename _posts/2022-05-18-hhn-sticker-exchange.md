@@ -26,7 +26,7 @@ Der Idee des C3stoc folgend, starte ich ab sofort den Sticker Exchange an der HH
 
 Ihr werft am Campus Sontheim einen Umschlag in den Briefkasten 269. In den Umschlag packt Ihr übrige Sticker und  einen zweiten Umschlag, vorzugsweise einen entsprechend passendend frankierten Maxi-Brief mit Eurer Rücksendeadresse. Sticker landen in Eurem Rücksendeumschlag und die zugeschickten Sticker wandern in den Sticker Exchange. 
 
-![Laptop Rückseite mit mehreren Stickern mit verschiedenen Motiven](../assets/img/postfach_800px.jpg){: width="350" }
+![Postfach von Prof. Andreas Heil am Standort Sontheim mit der Postfach Nummer 269](../assets/img/postfach_800px.jpg){: width="350" }
 
 Da Eure persönlichen Daten hier nicht verarbeitet werden, bekommen wir hier auch keine datenschutzrechtlichen Probleme. Eure Namen und/oder Adressen werden nicht weiter gespeichert oder verarbeitet.
 
