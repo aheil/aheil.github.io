@@ -1,0 +1,147 @@
+{
+  "id": "5e4298d6-32a2-4716-b7a0-4dd26cc0ab25",
+  "version": "2.0",
+  "name": "aheil.de",
+  "url": "https://aheil.de",
+  "tests": [{
+    "id": "8be07cce-bf04-4354-b083-6a7578bd832c",
+    "name": "Offene Abschlussarbeiten",
+    "commands": [{
+      "id": "a8f5fa1d-ed33-410f-b834-88ad0d3ef864",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5b4475a8-6399-4a26-bb47-8ce6959d2f43",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1398x1322",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "98b9e9f4-6a27-4e0d-ab5f-dd28f1e7a3cd",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Hochschule",
+      "targets": [
+        ["linkText=Hochschule", "linkText"],
+        ["css=.nav-item:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Hochschule')]", "xpath:link"],
+        ["xpath=//div[@id='navbarNavAltMarkup']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/hochschule/')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Hochschule')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d53fd8c6-626e-41d7-862f-e91cf8bd0d93",
+      "comment": "",
+      "command": "",
+      "target": "linkText=Mehr Informationen",
+      "targets": [],
+      "value": ""
+    }]
+  }, {
+    "id": "4faf9149-f883-476e-a179-4ef59c00fe74",
+    "name": "Betreuung",
+    "commands": [{
+      "id": "60e962da-175f-4869-ba66-c43ba2fbf0e1",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ff2a74ea-ff7e-4064-83ad-596e938ac6bb",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1401x1325",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0562e5e9-17f9-480d-9db3-d0fc208d709b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Hochschule",
+      "targets": [
+        ["linkText=Hochschule", "linkText"],
+        ["css=.nav-item:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Hochschule')]", "xpath:link"],
+        ["xpath=//div[@id='navbarNavAltMarkup']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/hochschule/')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Hochschule')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c5c4d504-d295-46a9-8fb3-debd9888bb63",
+      "comment": "",
+      "command": "click",
+      "target": "css=p:nth-child(17) > .m-1",
+      "targets": [
+        ["css=p:nth-child(17) > .m-1", "css:finder"],
+        ["xpath=(//a[contains(text(),'Mehr Informationen')])[2]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/hochschule/betreuung/')]", "xpath:href"],
+        ["xpath=//p[9]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "5e29bc72-d719-4c8d-b6a2-fd9514fecc5d",
+    "name": "Abgeschlossene Arbeiten",
+    "commands": [{
+      "id": "ff30f39f-3c47-4490-82b3-b1ed073cacfa",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1f38b283-9680-45d9-ac85-3c9fe08d0b52",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1401x1325",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "48341bd9-6f7a-41de-b653-8d006c16054b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Hochschule",
+      "targets": [
+        ["linkText=Hochschule", "linkText"],
+        ["css=.nav-item:nth-child(1)", "css:finder"],
+        ["xpath=//a[contains(text(),'Hochschule')]", "xpath:link"],
+        ["xpath=//div[@id='navbarNavAltMarkup']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/hochschule/')]", "xpath:href"],
+        ["xpath=//div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Hochschule')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ec3fb79-2dae-42b1-9fa7-81b1cb144b6d",
+      "comment": "",
+      "command": "click",
+      "target": "css=p:nth-child(20) > .m-1",
+      "targets": [
+        ["css=p:nth-child(20) > .m-1", "css:finder"],
+        ["xpath=(//a[contains(text(),'Mehr Informationen')])[3]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/hochschule/abschlussarbeiten/')]", "xpath:href"],
+        ["xpath=//p[11]/a", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "8448c1b5-1532-4396-b758-28d8be6cea9e",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["8be07cce-bf04-4354-b083-6a7578bd832c"]
+  }],
+  "urls": ["https://aheil.de/"],
+  "plugins": []
+}
