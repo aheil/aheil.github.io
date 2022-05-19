@@ -103,3 +103,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
+  - ./test/
