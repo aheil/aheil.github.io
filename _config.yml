@@ -104,3 +104,4 @@ exclude:
   - LICENSE
   - "*.log"
   - ./test/
+  - ./assets/raw/
