@@ -103,5 +103,6 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - ./test/
-  - ./assets/raw/
+  - .test
+  - .assets/raw
+  - node_modules
