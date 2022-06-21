@@ -10,11 +10,13 @@ weight: 6
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
 ## 2022
+- Angelo Mangione, _Enterprise Architektur Management im Energiesektor_, Master Thesis (M.Sc.), Hochschule Heilbronn/Universität Heidelberg (ZEAG Energie AG), 2022
+
 - Mücahit Aktürk, _Entwicklung eines Algorithmus zur kontextabhängigen Filterung von automatisierten Tests in CI/CD-Pipelines durch statische Code-Analyse_, Bachelor Thesis (B.Eng.), Hochschule Heilbronn, Fakultät Technik 1 (Philips Medizin Systeme Böblingen GmbH), 2022
 
 - Lakshmi Priya Karuturi, Securing Containers in DevOps Development Life Cycle, Master Thesis (M.Sc.), Hochschule Heilbronn, 2022
 
-- Chris Benjmain Wacker, Performanz- und Wirtschaftlichkeitsanalyse von Arm-Einplatinencomputer Clustern, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
+- Chris Benjamin Wacker, Performanz- und Wirtschaftlichkeitsanalyse von Arm-Einplatinencomputer Clustern, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
 
 - Nils Mangold, Cloud-Markplatz-Lösungen zur Bereitstellung von Third-Party Services, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
 

@@ -58,7 +58,7 @@ Sobald Ihr Visionsdokument in einem akzeptierter Form vorliegt, findet eine Kick
 - der/die betriebliche Betreuer:in
 - der betreuende Professor (also ich)
 
-Der Kick-Off wird in den Räumlichkeiten der Hochschule durchgeführt. Sollte aus geographischen Gründen (Entfernung) eine persönliche Teilnahme der betrieblichen Seite nicht möglich sein, kommen Sie frühzeitig auf mich zu um eine digitale Alternative zu vereinbaren.
+Der Kick-Off wird in den Räumlichkeiten der Hochschule durchgeführt. Sollte aus geographischen Gründen (Entfernung) eine persönliche Teilnahme der betrieblichen Seite nicht möglich sein, kommen Sie frühzeitig auf mich zu, um eine digitale Alternative zu vereinbaren.
 
 Das gemeinsame Kick-Off ausschließlich online statt. Ich richte mich hier gerne nach den Möglichkeiten des betreuenden Unternehmens. Falls nötig kann ich für Sie für den Termin ein WebEx Meeting bereitstellen. 
 
