@@ -46,7 +46,7 @@ Scope 3: Enthält alles zusätzliche zu Scope 2, um eine sehr gute Arbeit zu erz
 
 Im Studium sollten Sie Sinn und Nutzen eines Projektplans und der fortlaufenden Planung kennen gelernt haben. Für Ihr erstes großes eigenständiges Projekt (Thesis) fertigen Sie daher einen solchen an und stellen diesen im Kick-Off vor. Der Projektplan ist ein Arbeitsdokument, das Sie ständig überarbeiten. 
 
-Grundsätzlich können Sie das Tool Ihrer Wahl zu Planung einsetzen. Haben Sie kein Planungs-Tool zur Hand empfehle ich den Einsatz des freien Tools [GanttProject](https://www.ganttproject.biz), das auch in meinen Vorlesungen eingesetzt wird.
+Grundsätzlich können Sie das Tool Ihrer Wahl zu Planung einsetzen. Haben Sie kein Planungs-Tool zur Hand, empfehle ich den Einsatz des freien Tools [GanttProject](https://www.ganttproject.biz), das auch in meinen Vorlesungen eingesetzt wird.
 
 GanttProject: [https://www.ganttproject.biz](https://www.ganttproject.biz)
 
