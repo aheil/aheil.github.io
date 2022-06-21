@@ -42,6 +42,14 @@ Scope 2: Enthält alles zusätzliche zu Scope 1, um eine gute Arbeit zu erzielen
 
 Scope 3: Enthält alles zusätzliche zu Scope 2, um eine sehr gute Arbeit zu erzielen. Scope 3 enthält somit alles um eine überdurchschnittliche Arbeit zu erzielen.
 
+## Projektplan 
+
+Im Studium sollten Sie Sinn und Nutzen eines Projektplans und der fortlaufenden Planung kennen gelernt haben. Für Ihr erstes großes eigenständiges Projekt (Thesis) fertigen Sie daher einen solchen an und stellen diesen im Kick-Off vor. Der Projektplan ist ein Arbeitsdokument, das Sie ständig überarbeiten. 
+
+Grundsätzlich können Sie das Tool Ihrer Wahl zu Planung einsetzen. Haben Sie kein Planungs-Tool zur Hand empfehle ich den Einsatz des freien Tools [GanttProject](https://www.ganttproject.biz), das auch in meinen Vorlesungen eingesetzt wird.
+
+GanttProject: [https://www.ganttproject.biz](https://www.ganttproject.biz)
+
 ## Kick-Off
 
 Sobald Ihr Visionsdokument in einem akzeptierter Form vorliegt, findet eine Kick-Off Veranstaltung statt. Teilnehmer sind
@@ -54,7 +62,7 @@ Der Kick-Off wird in den Räumlichkeiten der Hochschule durchgeführt. Sollte au
 
 Das gemeinsame Kick-Off ausschließlich online statt. Ich richte mich hier gerne nach den Möglichkeiten des betreuenden Unternehmens. Falls nötig kann ich für Sie für den Termin ein WebEx Meeting bereitstellen. 
 
-Im Kick-Off sollten Sie in einer kurzen Präsentation Ihr Thema vorstellen und ggf. noch offene Fragen mit Ihren Betreuern erörtern. Dazu gehören die Themen Benotung, Vertraulichkeit und Laufzeit. In aller Regel sollte zu diesem Zeitpunkt inhaltlich bereits alles geklärt sei. Zum Abschluss klären wir in der Regel den Starttermin Ihrer Arbeit und leiten die Anmeldung in die Wege.
+Im Kick-Off sollten Sie in einer kurzen Präsentation Ihr Thema vorstellen und ggf. noch offene Fragen mit Ihren Betreuern erörtern. Dazu gehören die Themen Benotung, Vertraulichkeit und Laufzeit. In aller Regel sollte zu diesem Zeitpunkt inhaltlich bereits alles geklärt sei. Spätestens zu diesem Zeitpunkt sollte Ihr Projektplan in der ersten Version fertig sein. Diesen stellen Sie im gemeinsamen Kick-Off kurz vor. Zum Abschluss klären wir in der Regel den Starttermin Ihrer Arbeit und leiten die Anmeldung in die Wege.
 
 ## Anmeldung der Arbeit
 
