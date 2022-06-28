@@ -10,6 +10,9 @@ weight: 6
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
 ## 2022
+
+- Niklas Rennhofer, _Ausarbeitung und Entwicklung eines einheitlichen DevOps-Workflows zur Unterstützung des Softwareentwicklungsprozesses mittels Artefakteverwaltungs-Tools_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IDS Imaging Development Systems GmbH), 2022
+
 - Céline Zippert, _Einsatz von Java Native Image Frameworks im E-Commerce am Beispiel eines Onlineshops_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
 
 - Angelo Mangione, _Enterprise Architektur Management im Energiesektor_, Master Thesis (M.Sc.), Hochschule Heilbronn/Universität Heidelberg (ZEAG Energie AG), 2022
