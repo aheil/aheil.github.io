@@ -1,5 +1,5 @@
 ---
-title: HHN Sticker Exchange
+title: Mit dem ÖPNV zum Campus
 tags: ["Hochschule"]
 description: "Wie schaut es aus nach einem Semester ÖPNV?"
 ---
