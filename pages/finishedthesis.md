@@ -14,6 +14,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Angelo Mangione, _Enterprise Architektur Management im Energiesektor_, Master Thesis (M.Sc.), Hochschule Heilbronn/Universität Heidelberg (ZEAG Energie AG), 2022
 
+- Jannik Faas, _Steigerung der Zuverlässigkeit und Skalierbarkeit von Web Services am Beispiel eines Webdienstes zum Erstellen und Testen von Security Software_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2022
+
 - Mücahit Aktürk, _Entwicklung eines Algorithmus zur kontextabhängigen Filterung von automatisierten Tests in CI/CD-Pipelines durch statische Code-Analyse_, Bachelor Thesis (B.Eng.), Hochschule Heilbronn, Fakultät Technik 1 (Philips Medizin Systeme Böblingen GmbH), 2022
 
 - Lakshmi Priya Karuturi, Securing Containers in DevOps Development Life Cycle, Master Thesis (M.Sc.), Hochschule Heilbronn, 2022
