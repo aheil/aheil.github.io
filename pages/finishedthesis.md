@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Ralph Benedikt Janz, _Aufbau einer Protokollierung statistischer Nutzungskennzahlen von unternehmensinternen und webbasierten Anwendungen zur weiteren Verarbeitung für die Ableitung von strategischen Entscheidungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ZIEHL-ABEGG SE), 2022
+
 - Niklas Rennhofer, _Ausarbeitung und Entwicklung eines einheitlichen DevOps-Workflows zur Unterstützung des Softwareentwicklungsprozesses mittels Artefakteverwaltungs-Tools_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IDS Imaging Development Systems GmbH), 2022
 
 - Céline Zippert, _Einsatz von Java Native Image Frameworks im E-Commerce am Beispiel eines Onlineshops_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
