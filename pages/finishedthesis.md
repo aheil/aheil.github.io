@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Fabian Schwickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
+
 - Ralph Benedikt Janz, _Aufbau einer Protokollierung statistischer Nutzungskennzahlen von unternehmensinternen und webbasierten Anwendungen zur weiteren Verarbeitung für die Ableitung von strategischen Entscheidungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ZIEHL-ABEGG SE), 2022
 
 - Niklas Rennhofer, _Ausarbeitung und Entwicklung eines einheitlichen DevOps-Workflows zur Unterstützung des Softwareentwicklungsprozesses mittels Artefakteverwaltungs-Tools_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IDS Imaging Development Systems GmbH), 2022
@@ -25,18 +27,18 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Lakshmi Priya Karuturi, Securing Containers in DevOps Development Life Cycle, Master Thesis (M.Sc.), Hochschule Heilbronn, 2022
 
-- Chris Benjamin Wacker, Performanz- und Wirtschaftlichkeitsanalyse von Arm-Einplatinencomputer Clustern, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
+- Chris Benjamin Wacker, _Performanz- und Wirtschaftlichkeitsanalyse von Arm-Einplatinencomputer Clustern_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
 
-- Nils Mangold, Cloud-Markplatz-Lösungen zur Bereitstellung von Third-Party Services, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
+- Nils Mangold, _Cloud-Markplatz-Lösungen zur Bereitstellung von Third-Party Services_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2022
 
-- Patrick Baracho Dittrich, Entwicklung einer Web-Datenbank zur interaktiven Darstellung des deutschsprachigen Gesundheitswebs, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2022
+- Patrick Baracho Dittrich, _Entwicklung einer Web-Datenbank zur interaktiven Darstellung des deutschsprachigen Gesundheitswebs_, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2022
 
-- Philipp Röhm, Evaluierung und Auswahl eines React Testing Frameworks in einer agilen Entwicklungsumgebung, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Exxeta AG), 2022
+- Philipp Röhm, _Evaluierung und Auswahl eines React Testing Frameworks in einer agilen Entwicklungsumgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Exxeta AG), 2022
 
 ## 2021
-- Markus Pfeffermann, Schattenbuchhaltung mit JHipster, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2021
+- Markus Pfeffermann, _Schattenbuchhaltung mit JHipster_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2021
 
-- Oleksandra Kirpenko, Analyse von Qualitätsmerkmalen mobiler Anwendungen, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
+- Oleksandra Kirpenko, _Analyse von Qualitätsmerkmalen mobiler Anwendungen_, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
 - Andreea Olariu, Analyse von Zertifizierungen mobiler Anwendungen, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
