@@ -13,6 +13,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Fabian Schwickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
 
+- Philipp Walter, _Monitoring & Dataanalytics Platform auf Kubernetes_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Deutsche Telekom), 2022
+
 - Ralph Benedikt Janz, _Aufbau einer Protokollierung statistischer Nutzungskennzahlen von unternehmensinternen und webbasierten Anwendungen zur weiteren Verarbeitung für die Ableitung von strategischen Entscheidungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ZIEHL-ABEGG SE), 2022
 
 - Niklas Rennhofer, _Ausarbeitung und Entwicklung eines einheitlichen DevOps-Workflows zur Unterstützung des Softwareentwicklungsprozesses mittels Artefakteverwaltungs-Tools_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IDS Imaging Development Systems GmbH), 2022
