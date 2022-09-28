@@ -28,3 +28,10 @@ Im [Hochschul-ILIAS](https://ilias.hs-heilbronn.de/) habe ich einen [eigenen Rau
 Die gebuchten Termine werden in meinem Kalender synchronisiert und sind somit für mich zeitnah einsehbar. 
 
 Um eine effizientere Planung zu ermöglichen müssen die Termine spätestens 24 Stunden vorher gebucht werden. Nicht gebuchte Termine können so anderweitig genutzt werden. 
+
+## Troubleshooting 
+
+Sollten für Sie keine Termine sichtbar sein, prüfen Sie ob die Checkbox für den Kalender "Sprechstunden" für meinen Eintrag gesetzt ist. 
+
+![Ansicht eines Kalenders mit fehlenden Termineinträgen aufgrund einer nicht gesetzten Checkbox für den Kalender Sprechstunden](../assets/img/sprechstundentermine_checkbox.jpg){:width="600"}
+
