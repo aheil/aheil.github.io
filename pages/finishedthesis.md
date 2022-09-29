@@ -46,7 +46,7 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Hugas Jasinskas, Analyse von Merkmalen mobiler Gesundheits-Apps, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
-- Marc-Julian Fleck, Conception, Prototypical Implementation, and Testing of a One-Click Computer-Mediated Communication Video-Call System for Older Adults, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021
+- Marc-Julian Fleck, Conception, Prototypical Implementation, and Testing of a One-Click Computer-Mediated Communication Video-Call System for Older Adults, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021 (ausgezeichnet mit mit dem Förderpreis der [Thomas Gessmann-Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungen/thomas-gessmann-stiftung))
 
 - Jannik Fabian Springmann, Web Assembly - die Zukunft der Webentwicklung, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Adesso SE), 2021
 
