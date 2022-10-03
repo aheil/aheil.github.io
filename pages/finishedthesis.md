@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Malte-Christian Neumann, _Erstellung eines Konzepts zur Interationstestautoamtisierung für eine Microservice orientiertes System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (KEP Automation KG), 2022
+
 - Fabian Schwickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
 
 - Philipp Walter, _Monitoring & Dataanalytics Platform auf Kubernetes_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Deutsche Telekom), 2022
@@ -42,15 +44,15 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Oleksandra Kirpenko, _Analyse von Qualitätsmerkmalen mobiler Anwendungen_, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
-- Andreea Olariu, Analyse von Zertifizierungen mobiler Anwendungen, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
+- Andreea Olariu, _Analyse von Zertifizierungen mobiler Anwendungen_, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
-- Hugas Jasinskas, Analyse von Merkmalen mobiler Gesundheits-Apps, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
+- Hugas Jasinskas, _Analyse von Merkmalen mobiler Gesundheits-Apps_, Bachelor Thesis (B.Sc.), Universität Heidelberg/Hochschule Heilbronn, 2021
 
-- Marc-Julian Fleck, Conception, Prototypical Implementation, and Testing of a One-Click Computer-Mediated Communication Video-Call System for Older Adults, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021 (ausgezeichnet mit mit dem Förderpreis der [Thomas Gessmann-Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungen/thomas-gessmann-stiftung))
+- Marc-Julian Fleck, _Conception, Prototypical Implementation, and Testing of a One-Click Computer-Mediated Communication Video-Call System for Older Adults_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021 (ausgezeichnet mit mit dem Förderpreis der [Thomas Gessmann-Stiftung](https://www.deutsches-stiftungszentrum.de/stiftungen/thomas-gessmann-stiftung))
 
-- Jannik Fabian Springmann, Web Assembly - die Zukunft der Webentwicklung, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Adesso SE), 2021
+- Jannik Fabian Springmann, _Web Assembly - die Zukunft der Webentwicklung_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Adesso SE), 2021
 
-- Felix Fischer, Umwandlung von Monolithen in Microservices mit Fokus auf Entwicklung eines Templates für CI/CD Pipelines, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (UNITIY Consulting & Innovation), 2021
+- Felix Fischer, _Umwandlung von Monolithen in Microservices mit Fokus auf Entwicklung eines Templates für CI/CD Pipelines_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (UNITIY Consulting & Innovation), 2021
 
 - Felix Forstner, Analyse von Automatisierungsmöglichkeiten der Ticketbearbeitung im Microsoft 365 Umfeld, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
 
