@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Niklas Kemper, _Continuous Integration in der Praxis: Verbesserung des Development Life Cycles_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2022
+
 - Malte-Christian Neumann, _Erstellung eines Konzepts zur Interationstestautoamtisierung für eine Microservice orientiertes System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (KEP Automation KG), 2022
 
 - Fabian Schwickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
