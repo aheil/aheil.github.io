@@ -11,11 +11,15 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Deniz Kuscu, _Analyse der Verbesserung durch automatisiertes Container-Patching der meistgenutzten Container Images von Docker Hub_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
+
+- Valentin Ehnes, _Automatisierung des Patch- und Release-Managements einer hierarchischen Projektstruktur durch Continuous Integration_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dmTECH GmbH), 2022
+
 - Niklas Kemper, _Continuous Integration in der Praxis: Verbesserung des Development Life Cycles_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2022
 
 - Malte-Christian Neumann, _Erstellung eines Konzepts zur Interationstestautoamtisierung für eine Microservice orientiertes System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (KEP Automation KG), 2022
 
-- Fabian Schwickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
+- Fabian Schickert, _Statische Analyse von Dockerfiles auf die Implementierung von Best Practices – ein Vergleich von Hadolint und Triv_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
 
 - Philipp Walter, _Monitoring & Dataanalytics Platform auf Kubernetes_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Deutsche Telekom), 2022
 
@@ -56,31 +60,31 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Felix Fischer, _Umwandlung von Monolithen in Microservices mit Fokus auf Entwicklung eines Templates für CI/CD Pipelines_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (UNITIY Consulting & Innovation), 2021
 
-- Felix Forstner, Analyse von Automatisierungsmöglichkeiten der Ticketbearbeitung im Microsoft 365 Umfeld, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
+- Felix Forstner, _Analyse von Automatisierungsmöglichkeiten der Ticketbearbeitung im Microsoft 365 Umfeld_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
 
-- Nina Hartmann, Erweiterung des Theming-Konzeptes einer UI-Bibliothek, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Interflex Datensysteme GmbH/Allegion plc), 2021
+- Nina Hartmann, _Erweiterung des Theming-Konzeptes einer UI-Bibliothek_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Interflex Datensysteme GmbH/Allegion plc), 2021
 
-- Lukas Ertl, Automatisierte Ressourcenänderungsprozesse von virtuellen Servern, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
+- Lukas Ertl, _Automatisierte Ressourcenänderungsprozesse von virtuellen Servern_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
 
-- Ferenc Horvay, Continuous Deployment in der Cloud - Evaluierung und Einführung von GitOps in einer Cloudtechnologiebasierten Umgebung, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Markant Services International GmbH), 2021
+- Ferenc Horvay, _Continuous Deployment in der Cloud - Evaluierung und Einführung von GitOps in einer Cloudtechnologiebasierten Umgebung_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Markant Services International GmbH), 2021
 
-- Linus Gottschick, Managen von Sicherheitslücken von Docker-Containern in einer Unternehmensumgebung, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IONOS SE), 2021
+- Linus Gottschick, _Managen von Sicherheitslücken von Docker-Containern in einer Unternehmensumgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (IONOS SE), 2021
 
-- Daniel Kniel, Entwicklung einer Browser-Erweiterung für Augmented Writing, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (100 Worte Sprachanalyse GmbH), 2021
+- Daniel Kniel, _Entwicklung einer Browser-Erweiterung für Augmented Writing_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (100 Worte Sprachanalyse GmbH), 2021
 
-- Lea Schmierer, Betriebsstrategie einer CMDB-Lösung in einer cloudbasierten Infrastruktur im Einzelhandel, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
+- Lea Schmierer, _Betriebsstrategie einer CMDB-Lösung in einer cloudbasierten Infrastruktur im Einzelhandel_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2021
 
-- Robin Kappler, Ausarbeitung eines Konzeptes für die Analyse, Bewertung und Freigabe von Hacking Tools in der IT-Security, Master Thesis (M.Sc.), Hochschule Heilbronn (cirosec GmbH), 2021
+- Robin Kappler, _Ausarbeitung eines Konzeptes für die Analyse, Bewertung und Freigabe von Hacking Tools in der IT-Security_, Master Thesis (M.Sc.), Hochschule Heilbronn (cirosec GmbH), 2021
 
-- Simon Schweizer, Entwicklung von mobilen Gesundheitsanwendungen auf Basis von Low-Code-Mechanismen, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021
+- Simon Schweizer, _Entwicklung von mobilen Gesundheitsanwendungen auf Basis von Low-Code-Mechanismen_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2021
 
-- Patrick Siegle, Vergleich der Testbarkeit verschiedener Mobile-App-Technologien, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Aluxo GmbH), 2021
+- Patrick Siegle, _Vergleich der Testbarkeit verschiedener Mobile-App-Technologien_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Aluxo GmbH), 2021
 
-- Valentin Lutz, Kubernetes-Native CI/CD Systeme - Evaluation und prototypische Umsetzung, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (doubleSlash Net-Businbess GmbH), 2021
+- Valentin Lutz, _Kubernetes-Native CI/CD Systeme - Evaluation und prototypische Umsetzung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (doubleSlash Net-Businbess GmbH), 2021
 
-- Nicolas Resch, Absicherung von Software in Private Clouds durch den Einsatz von DevSecOps, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (adesso SE), 2021
+- Nicolas Resch, _Absicherung von Software in Private Clouds durch den Einsatz von DevSecOps_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (adesso SE), 2021
 
-- Patrick Wagner, Auswahl eine Standardframeworks für die Erstellung von Graphen innerhalb einer React-Umgebung, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2021
+- Patrick Wagner, _Auswahl eine Standardframeworks für die Erstellung von Graphen innerhalb einer React-Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2021
 
 ## 2020
 - Michael Graf, Bedeutung von Telemetrie für den Software Development Life Cycle, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2020, [urn:nbn:&#8203;de:bsz:840-opus4-1751](https://nbn-resolving.org/urn:nbn:de:bsz:840-opus4-1751)  
