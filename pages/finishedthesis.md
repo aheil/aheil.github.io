@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2022
 
+- Kim Petra Weiß, _Automatisierungsmöglichkeiten im Transport- und Auftragsmanagement_, Bachelor Thesis (B.Sc.),  Hochschule Heilbronn/Universität Heidelberg (Bechtle AG), 2022
+
 - Deniz Kuscu, _Analyse der Verbesserung durch automatisiertes Container-Patching der meistgenutzten Container Images von Docker Hub_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2022
 
 - Valentin Ehnes, _Automatisierung des Patch- und Release-Managements einer hierarchischen Projektstruktur durch Continuous Integration_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dmTECH GmbH), 2022
