@@ -1,6 +1,6 @@
 ---
 title: Wenn die Kernisolierung bockt
-tags: windows hack
+tags: windows hack opsec
 description: "Mittels manueller Treiberentfernung die Kernisolierung unter Windows 11 ermöglichen." 
 ---
 
