@@ -1,7 +1,7 @@
 ---
 title: Kernisolierung manuell herstellen
 tags: windows hack
-description:"Mittels manueller Treiberentfernung die Kernisolierung unter Windows 11 ermöglichen." 
+description: "Mittels manueller Treiberentfernung die Kernisolierung unter Windows 11 ermöglichen." 
 ---
 
 ## tldr;
