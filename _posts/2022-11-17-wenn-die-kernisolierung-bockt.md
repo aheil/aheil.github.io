@@ -1,12 +1,12 @@
 ---
-title: Kernisolierung manuell herstellen
+title: Wenn die Kernisolierung bockt
 tags: windows hack
 description: "Mittels manueller Treiberentfernung die Kernisolierung unter Windows 11 ermöglichen." 
 ---
 
 ## tldr;
 
-Aufgrund alter Treiber, die sich nicht (mehr) deinstallieren lassen, kann es sein, dass die Kernisolierung aufgrund nicht kompatibler Treiber nicht aktiviert werden kann. Mit ein paar Tricks lassen sich die Treiber manuell entfernen.
+Aufgrund alter Treiber, die sich nicht (mehr) deinstallieren lassen, kann es sein, dass die Kernisolierung aufgrund nicht kompatibler Treiber bockt und nicht aktiviert werden kann. Mit ein paar Tricks lassen sich die Treiber manuell entfernen.
 
 > WORKS ON MY MACHINE: In diesem Artikel werden einige Schritte beschrieben, die tief ins Betriebssystem eingreifen und ggf. dazu führen, dass der Rechner nicht mehr startet. Nachmachen ist ausdrücklich **nicht** empfohlen und geschieht auf eigene Gefahr. 
 
