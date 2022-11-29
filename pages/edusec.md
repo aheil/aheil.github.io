@@ -30,13 +30,13 @@ var marker_hhn = L.marker([49.12188926543984, 9.211406858124464]).addTo(map);
 marker_hhn.bindPopup("<b>Hochschule Heilbronn</b><br>3.11.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html").openPopup();
 
 var marker_due = L.marker([48.40855602073308, 9.998293112505305]).addTo(map);
-marker_due.bindPopup("<b>Universität Duisburg-Essen</b><br>12.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due.bindPopup("<b>Technische Hochschule Ulm</b><br>12.11.2022<br>https://www.augsburger-allgemeine.de/neu-ulm/ulm-cyberangriff-auf-die-hochschule-ulm-id64650131.html").openPopup();
 
 var marker_due1 = L.marker([51.43337049989403, 6.802082052295569]).addTo(map);
-marker_due1.bindPopup("<b>Technische Hochschule Ulm</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
 
 var marker_due2 = L.marker([51.466315380571494, 7.016386593717399]).addTo(map);
-marker_due2.bindPopup("<b>Technische Hochschule Ulm</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
 
 </script>
 
