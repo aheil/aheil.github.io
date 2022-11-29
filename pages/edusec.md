@@ -25,6 +25,9 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+var marker_ansbach = L.marker([49.31287462029946, 10.5672619284774]).addTo(map);
+marker_ansbach.bindPopup("<b>Hochschule Ansbach</b><br>20.10.2022<br>https://www.sueddeutsche.de/bayern/hackerangriff-hochschule-ansbach-lka-cyberattacke-1.5678669").openPopup();
+
 
 var marker_hhn = L.marker([49.12188926543984, 9.211406858124464]).addTo(map);
 marker_hhn.bindPopup("<b>Hochschule Heilbronn</b><br>3.11.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html").openPopup();
@@ -37,6 +40,8 @@ marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https
 
 var marker_due2 = L.marker([51.466315380571494, 7.016386593717399]).addTo(map);
 marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+
+
 
 </script>
 
