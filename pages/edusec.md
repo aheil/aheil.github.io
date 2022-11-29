@@ -13,7 +13,7 @@ Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, 
 
  <div id="map" style="height: 640px;" ></div>
 
-Fehlende Einträge gerne an [chaos.social/@aheil](chaos.social/@aheil) melden. Aus OpSec-Gründen werden nur Vorfälle eingetragen, über die es mind. ein öffentliche Mitteilung gibt.
+Fehlende Einträge gerne an [chaos.social/@aheil](https://chaos.social/@aheil) melden. Aus OpSec-Gründen werden nur Vorfälle eingetragen, über die es mind. ein öffentliche Mitteilung gibt.
 
  <script>
 var map = L.map('map').setView([51.00, 10.00], 6);
