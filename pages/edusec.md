@@ -25,21 +25,27 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+var marker_fhmuenster = L.marker([51.97194944789303, 7.595442493833062]).addTo(map);
+marker_fhmuenster.bindPopup("<b>Fachhochschule Münster</b><br>23.06.2022<br>https://www1.wdr.de/nachrichten/westfalen-lippe/hackerangriff-fachhochschule-muenster-fh-100.html");
+
+var marker_bergischeuni = L.marker([51.24516944577138, 7.149426966813448]).addTo(map);
+marker_bergischeuni.bindPopup("<b>Bergische Universität Wuppertal</b><br>26.07.2022<br>https://www1.wdr.de/nachrichten/rheinland/hackerangriff-auf-wuppertaler-universitaet-100.html");
+
 var marker_ansbach = L.marker([49.31287462029946, 10.5672619284774]).addTo(map);
-marker_ansbach.bindPopup("<b>Hochschule Ansbach</b><br>20.10.2022<br>https://www.sueddeutsche.de/bayern/hackerangriff-hochschule-ansbach-lka-cyberattacke-1.5678669").openPopup();
+marker_ansbach.bindPopup("<b>Hochschule Ansbach</b><br>20.10.2022<br>https://www.sueddeutsche.de/bayern/hackerangriff-hochschule-ansbach-lka-cyberattacke-1.5678669");
 
 
 var marker_hhn = L.marker([49.12188926543984, 9.211406858124464]).addTo(map);
 marker_hhn.bindPopup("<b>Hochschule Heilbronn</b><br>3.11.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html").openPopup();
 
 var marker_due = L.marker([48.40855602073308, 9.998293112505305]).addTo(map);
-marker_due.bindPopup("<b>Technische Hochschule Ulm</b><br>12.11.2022<br>https://www.augsburger-allgemeine.de/neu-ulm/ulm-cyberangriff-auf-die-hochschule-ulm-id64650131.html").openPopup();
+marker_due.bindPopup("<b>Technische Hochschule Ulm</b><br>12.11.2022<br>https://www.augsburger-allgemeine.de/neu-ulm/ulm-cyberangriff-auf-die-hochschule-ulm-id64650131.html");
 
 var marker_due1 = L.marker([51.43337049989403, 6.802082052295569]).addTo(map);
-marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
 
 var marker_due2 = L.marker([51.466315380571494, 7.016386593717399]).addTo(map);
-marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
 
 
 
