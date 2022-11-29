@@ -11,10 +11,11 @@ Hier finden Sie offene Ausschreibungen die von mir, oder von Unternehmen, deren 
 
 ## Offene Arbeiten 
 
-- [Alternativen zum MVC Design Pattern (Exxeta AG)](https://cdn.aheil.de/BTh.MVC.Exxeta.pdf)
+Derzeit sind keine offenen Arbeiten zu vergeben.
 
 ## Vergebene Arbeiten 
 
+- [Alternativen zum MVC Design Pattern (Exxeta AG)](https://cdn.aheil.de/BTh.MVC.Exxeta.pdf)
 - [Analyse von Zertifizierungen für (mobile) Anwendungen](https://cdn.aheil.de/BTh.Zertifizierungen.pdf)
 - [Analyse von Qualitätsmerkmalen mobiler Anwendungen](https://cdn.aheil.de/BTh.Qualitaetsmerkmale.pdf)
 - [Absicherung von Docker Containern im DevOps Software Development Lifecycle](https://cdn.aheil.de/BTh.Docker_Security.pdf)
