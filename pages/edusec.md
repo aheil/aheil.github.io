@@ -25,6 +25,19 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 }).addTo(map);
 
+<!-- - Vorfälle 2019 ---> 
+
+var marker_medhanover = L.marker([52.384706507048335, 9.804138466565322]).addTo(map);
+marker_medhanover.bindPopup("<b>Medizinische Hochschule Hannover</b><br>26.09.2019<br>https://www.heise.de/newsticker/meldung/Emotet-befaellt-Medizinische-Hochschule-Hannover-4541189.html").setOpacity(0.5);
+
+var marker_giessen = L.marker([50.58073525472247, 8.677098435280982]).addTo(map);
+marker_giessen.bindPopup("<b>Universität Gießen</b><br>09.12.2019<br>https://www.heise.de/newsticker/meldung/Uni-Giessen-offline-und-lahmgelegt-Cyber-Ermittler-eingeschaltet-4608662.html").setOpacity(0.5);
+
+var marker_kathfr = L.marker([48.00400789691404, 7.857480726868274]).addTo(map);
+marker_kathfr.bindPopup("<b>Katholische Hochschule Freiburg</b><br>19.12.2019<br>https://www.heise.de/newsticker/meldung/Shutdown-der-IT-Infrastruktur-Malware-befaellt-Katholische-Hochschule-Freiburg-4620194.html").setOpacity(0.5);
+
+<!-- - Vorfälle 2022 ---> 
+
 var marker_fhmuenster = L.marker([51.97194944789303, 7.595442493833062]).addTo(map);
 marker_fhmuenster.bindPopup("<b>Fachhochschule Münster</b><br>23.06.2022<br>https://www1.wdr.de/nachrichten/westfalen-lippe/hackerangriff-fachhochschule-muenster-fh-100.html");
 
@@ -36,7 +49,7 @@ marker_ansbach.bindPopup("<b>Hochschule Ansbach</b><br>20.10.2022<br>https://www
 
 
 var marker_hhn = L.marker([49.12188926543984, 9.211406858124464]).addTo(map);
-marker_hhn.bindPopup("<b>Hochschule Heilbronn</b><br>3.11.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html").openPopup();
+marker_hhn.bindPopup("<b>Hochschule Heilbronn</b><br>3.11.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html");
 
 var marker_due = L.marker([48.40855602073308, 9.998293112505305]).addTo(map);
 marker_due.bindPopup("<b>Technische Hochschule Ulm</b><br>12.11.2022<br>https://www.augsburger-allgemeine.de/neu-ulm/ulm-cyberangriff-auf-die-hochschule-ulm-id64650131.html");
@@ -45,7 +58,7 @@ var marker_due1 = L.marker([51.43337049989403, 6.802082052295569]).addTo(map);
 marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
 
 var marker_due2 = L.marker([51.466315380571494, 7.016386593717399]).addTo(map);
-marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
+marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
 
 
 
