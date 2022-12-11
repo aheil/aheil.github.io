@@ -43,6 +43,10 @@ marker_kathfr.bindPopup("<b>Katholische Hochschule Freiburg</b><br>19.12.2019<br
 
 <!-- - Vorfälle 2022 ---> 
 
+var marker_neuenburg= L.marker([46.99400854661084, 6.938703098338694]).addTo(map);
+marker_neuenburg.bindPopup("<b>Universität Neuenburg (Neuchâtel-Université)</b><br>18.02.2022<br>https://www.fm1today.ch/schweiz/universitaet-neuenburg-von-hackern-angegriffen-145512415");
+
+
 var marker_fhmuenster = L.marker([51.97194944789303, 7.595442493833062]).addTo(map);
 marker_fhmuenster.bindPopup("<b>Fachhochschule Münster</b><br>23.06.2022<br>https://www1.wdr.de/nachrichten/westfalen-lippe/hackerangriff-fachhochschule-muenster-fh-100.html");
 
