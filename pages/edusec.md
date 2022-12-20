@@ -67,7 +67,10 @@ var marker_due1 = L.marker([51.43337049989403, 6.802082052295569]).addTo(map);
 marker_due1.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
 
 var marker_due2 = L.marker([51.466315380571494, 7.016386593717399]).addTo(map);
-marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html").openPopup();
+marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html");
+
+var marker_due2 = L.marker([51.4277224735187, 6.79900813012635]).addTo(map);
+marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www.t-online.de/region/essen/id_100097744/uni-duisburg-essen-erneut-opfer-eines-hackerangriffs.html").openPopup();
 
 
 
