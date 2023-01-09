@@ -18,13 +18,13 @@ Fehlende Einträge gerne an [chaos.social/@aheil](https://chaos.social/@aheil) m
  <script>
 
 var _year2018Opacity = 0.4;
-var _year2019Opacity = 0.5;
-var _year2022Opacity = 0.8
+var _year2019Opacity = 0.4;
+var _year2022Opacity = 0.5;
+var _year2021Opacity = 0.5;
+var _year2022Opacity = 0.7;
 var _year2023Opacity = 1.0;
 
 var map = L.map('map').setView([51.00, 10.00], 6);
-
-
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -47,10 +47,18 @@ marker_giessen.bindPopup("<b>Universität Gießen</b><br>09.12.2019<br>https://w
 var marker_kathfr = L.marker([48.00400789691404, 7.857480726868274]).addTo(map);
 marker_kathfr.bindPopup("<b>Katholische Hochschule Freiburg</b><br>19.12.2019<br>https://www.heise.de/newsticker/meldung/Shutdown-der-IT-Infrastruktur-Malware-befaellt-Katholische-Hochschule-Freiburg-4620194.html").setOpacity(_year2019Opacity);
 
+<!-- - Vorfälle 2021 ---> 
+
+var marker_tuberlin = L.marker([52.51259746641021, 13.32691241005908]).addTo(map);
+marker_tuberlin.bindPopup("<b>TU Berlin</b><br>21.06.2021<br>https://www.heise.de/news/Cyberangriff-TU-Berlin-rechnet-mit-monatelangen-IT-Einschraenkungen-6061688.html").setOpacity(_year2021Opacity);
+
 <!-- - Vorfälle 2022 ---> 
 
 var marker_neuenburg= L.marker([46.99400854661084, 6.938703098338694]).addTo(map);
 marker_neuenburg.bindPopup("<b>Universität Neuenburg (Neuchâtel-Université)</b><br>18.02.2022<br>https://www.fm1today.ch/schweiz/universitaet-neuenburg-von-hackern-angegriffen-145512415").setOpacity(_year2022Opacity);
+
+var marker_phfreiburg= L.marker([47.980912680971144, 7.892471353691278]).addTo(map);
+marker_phfreiburg.bindPopup("<b>PH Freiburg</b><br>10.06.2022<br>https://www.swr.de/swraktuell/baden-wuerttemberg/suedbaden/ph-freiburg-von-cyberangriff-betroffen-100.html").setOpacity(_year2022Opacity);
 
 var marker_fhmuenster = L.marker([51.97194944789303, 7.595442493833062]).addTo(map);
 marker_fhmuenster.bindPopup("<b>Fachhochschule Münster</b><br>23.06.2022<br>https://www1.wdr.de/nachrichten/westfalen-lippe/hackerangriff-fachhochschule-muenster-fh-100.html").setOpacity(_year2022Opacity);
