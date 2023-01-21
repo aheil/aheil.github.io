@@ -84,10 +84,20 @@ marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https
 var marker_due2 = L.marker([51.4277224735187, 6.79900813012635]).addTo(map);
 marker_due2.bindPopup("<b>Universität Duisburg-Essen</b><br>28.11.2022<br>https://www.t-online.de/region/essen/id_100097744/uni-duisburg-essen-erneut-opfer-eines-hackerangriffs.html").setOpacity(_year2022Opacity);
 
+var marker_zwickau22 = L.marker([50.713909859787854, 12.49777140782187]).addTo(map);
+marker_zwickau22.bindPopup("<b>Westsächsische Hochschule Zwickau</b><br>30.12.2022<br>https://www.mdr.de/nachrichten/sachsen/chemnitz/zwickau/hackerangriff-cyberangriff-cyberattacke-westsaechsische-hochschule-100.html").setOpacity(_year2022Opacity);
+
 <!-- - Vorfälle 2023 ---> 
 
 var marker_hh = L.marker([53.55487009539829, 10.020802615688522]).addTo(map);
-marker_hh.bindPopup("<b>Hochschule für Angewandte Wissenschaften Hamburg</b><br>05.01.2023<br>https://www.heise.de/news/Hochschule-fuer-Angewandte-Wissenschaften-Hamburg-hart-von-Cyberattacke-getroffen-7449611.html").openPopup();
+marker_hh.bindPopup("<b>Hochschule für Angewandte Wissenschaften Hamburg</b><br>05.01.2023<br>https://www.heise.de/news/Hochschule-fuer-Angewandte-Wissenschaften-Hamburg-hart-von-Cyberattacke-getroffen-7449611.html");
+
+var marker_uniinsbruck23 = L.marker([47.263601750201886, 11.383864972893273]).addTo(map);
+marker_uniinsbruck23.bindPopup("<b>Universität Innsbruck</b><br>16.01.2023<br>https://www.derstandard.de/story/2000142607899/cyberangriff-auf-it-der-universitaet-innsbruck");
+
+var marker_tufreiberg23 = L.marker([50.91832830564631, 13.340937204373903]).addTo(map);
+marker_tufreiberg23.bindPopup("<b>TU Bergakademie Freiberg</b><br>19.01.2023<br>https://www.forschung-und-lehre.de/management/tu-freiberg-komplett-offline-5334").openPopup();
+
 
 </script>
 
