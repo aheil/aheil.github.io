@@ -1,4 +1,6 @@
 
+var incidents;
+
 function addIncident(incident)
 {
     console.log(incident);
@@ -11,12 +13,6 @@ fetch("../assets/incidents.json")
     return response.json();
   })
   .then(function (data) {
-    console.log(data);
-    //     console.log("parsing " + data.length + " incidents")
-   for (var i = 0; i <   data.length; i++) {
-      console.log(data[i].name);
-   //   addIncident(data[i]);
-    }
-    }
-    );
+    incidents = data;    
+  });
 
