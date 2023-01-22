@@ -8,5 +8,5 @@ function addIncident(incident)
 {
 
     var marker = L.marker([incident.lat, incident.long]).addTo(map);
-    marker.bindPopup("<b>" + incident.name +"</b><br>" + incident.date +"<br>" + incident.link);
+    marker.bindPopup("<b>" + incident.name +"</b><br>" + incident.date +"<br>" + incident.link); ‚
 }
