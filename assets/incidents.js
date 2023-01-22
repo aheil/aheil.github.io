@@ -1,2 +1,2 @@
-import incidents from '../assets/incidents.json' assert { type: 'JSON' };
+var incidents = require('../assets/incidents.json');
 console.log(incidents);
