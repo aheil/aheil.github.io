@@ -12,7 +12,6 @@ fetch("../assets/incidents.json")
   })
   .then(function (data) {
     console.log(data);
-    data.forEach(addIncident);
     //     console.log("parsing " + data.length + " incidents")
    for (var i = 0; i <   data.length; i++) {
       console.log(data[i]);
