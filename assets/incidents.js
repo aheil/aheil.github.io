@@ -16,5 +16,5 @@ fetch("../assets/incidents.json")
    //   console.log(data[i]);
    //   addIncident(data[i]);
     }
-  });
+  );
 
