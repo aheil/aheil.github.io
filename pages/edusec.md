@@ -15,7 +15,7 @@ Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, 
 
 Fehlende Einträge gerne an [chaos.social/@aheil](https://chaos.social/@aheil) melden. Aus OpSec-Gründen werden nur Vorfälle eingetragen, über die es mind. ein öffentliche Mitteilung gibt.
 
- <script>
+ <script type="module">
 
 var _year2018Opacity = 0.4;
 var _year2019Opacity = 0.4;
