@@ -15,7 +15,7 @@ Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, 
 
 Fehlende Einträge gerne an [chaos.social/@aheil](https://chaos.social/@aheil) melden. Aus OpSec-Gründen werden nur Vorfälle eingetragen, über die es mind. ein öffentliche Mitteilung gibt.
 
- <script type="module">
+ <script>
 
 var _year2018Opacity = 0.4;
 var _year2019Opacity = 0.4;
@@ -98,11 +98,9 @@ marker_uniinsbruck23.bindPopup("<b>Universität Innsbruck</b><br>16.01.2023<br>h
 var marker_tufreiberg23 = L.marker([50.91832830564631, 13.340937204373903]).addTo(map);
 marker_tufreiberg23.bindPopup("<b>TU Bergakademie Freiberg</b><br>19.01.2023<br>https://www.forschung-und-lehre.de/management/tu-freiberg-komplett-offline-5334").openPopup();
 
-import incidents from '../assets/incidents.json' assert { type: 'JSON' };
-console.log(data);
-
-
 </script>
+
+<script type="module" src="../assets/incidents.js" />
 
 
 
