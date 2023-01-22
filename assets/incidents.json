@@ -1,0 +1,6 @@
+{
+    "incidents" : [
+        {"name":"Universität Leipzig", "coord":"51.33901552661628, 12.378484817654831", "link":"https://www.forschung-und-lehre.de/management/uni-leipzig-von-hackern-angegriffen-4060", "date":"01.10.2021", "year": "2021"},
+        {"name":"Uni-Bibliothek Leipzig", "coord":"51.33281062965187, 12.368371383183284", "link":"https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/hacker-angriff-universitaet-bibliothek-100.html", "date":"27.04.2022", "year":"2022"}
+    ]
+}
