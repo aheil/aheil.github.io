@@ -2,7 +2,13 @@ fetch("../assets/incidents.json")
 .then(response => {
    return response.json();
 })
-.then(jsondata => jsondata.foreach(addIncident));
+.then(jsondata => doRrun(jsondata));
+
+
+function doRun(incidents)
+{
+    incidents.foreach(addIncident);
+}
 
 function addIncident(incident)
 {
