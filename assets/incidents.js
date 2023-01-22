@@ -5,7 +5,7 @@ function addIncident(incident)
     marker.bindPopup("<b>" + incident.name +"</b><br>" + incident.date + "<br>" + incident.link);
 }
 
-fetch("../assets/incidents.json")
+fetch("incidents.json")
   .then(function (response) {
     return response.json();
   })
