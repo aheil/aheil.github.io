@@ -10,10 +10,11 @@ fetch("../assets/incidents.json")
     return response.json();
   })
   .then(function (data) {
-        console.log("parsing " + data.length + " incidents")
-    for (let i = 0; i < data.length; i++) {
-      console.log(data[i]);
-      addIncident(data[i]);
+    console.log(data);
+    //     console.log("parsing " + data.length + " incidents")
+   // for (let i = 0; i < data.length; i++) {
+   //   console.log(data[i]);
+   //   addIncident(data[i]);
     }
   });
 
