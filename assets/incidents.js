@@ -1,8 +1,13 @@
 fetch("../assets/incidents.json")
-.then(response => {
-   return response.json();
-})
-.then(jsondata => jsondata.forEach(addIncident));
+  .then(function (response) {
+    return response.json();
+  })
+  .then(function (data) {
+    for (let i = 0; i < data.length; i++) {
+      console.log(data[i]);
+    }
+  })
+
 
 function addIncident(incident)
 {
