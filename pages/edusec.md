@@ -15,7 +15,9 @@ Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, 
 
 Fehlende Einträge gerne an [chaos.social/@aheil](https://chaos.social/@aheil) melden. Aus OpSec-Gründen werden nur Vorfälle eingetragen, über die es mind. ein öffentliche Mitteilung gibt.
 <br /><br />
-Die Incident Einträge sind auf <a href="https://github.com/aheil/aheil.github.io/blob/master/assets/incidents.json">GitHub als JSON-Datei</a> verfügbar.
+Die Incident Einträge sind auf [GitHub als JSON-Datei](https://github.com/aheil/aheil.github.io/blob/master/assets/incidents.json) verfügbar.
+<br /><br />
+Bericht über den vermeintlichen Ursprung der Angriffe auf [tagesschau.de](https://www.tagesschau.de/investigativ/rbb/hackernangriff-haw-vice-101.html).
 
  <script>
 
