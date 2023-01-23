@@ -95,9 +95,6 @@ marker_hh.bindPopup("<b>Hochschule für Angewandte Wissenschaften Hamburg</b><br
 var marker_uniinsbruck23 = L.marker([47.263601750201886, 11.383864972893273]).addTo(map);
 marker_uniinsbruck23.bindPopup("<b>Universität Innsbruck</b><br>16.01.2023<br>https://www.derstandard.de/story/2000142607899/cyberangriff-auf-it-der-universitaet-innsbruck");
 
-var marker_tufreiberg23 = L.marker([50.91832830564631, 13.340937204373903]).addTo(map);
-marker_tufreiberg23.bindPopup("<b>TU Bergakademie Freiberg</b><br>19.01.2023<br>https://www.forschung-und-lehre.de/management/tu-freiberg-komplett-offline-5334").openPopup();
-
 </script>
 
 <script type="module" src="../assets/incidents.js" />
