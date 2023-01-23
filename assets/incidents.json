@@ -1,6 +1,46 @@
 {
     "incidents": [
         {
+            "name": "Universität Ulm",
+            "lat": "48.42663630237683",
+            "long": " 9.954956005537442",
+            "link": "https://www.uni-ulm.de/en/forschung/forschung-aktuell-details/article/hackerangriff-an-der-universitaet-offenbar-keine-daten-manipuliert-oder-missbraucht/",
+            "date": "20.06.2018",
+            "year": "2018"
+        },
+        {
+            "name": "Medizinische Hochschule Hannover",
+            "lat": "52.384706507048335",
+            "long": "9.804138466565322",
+            "link": "https://www.heise.de/newsticker/meldung/Emotet-befaellt-Medizinische-Hochschule-Hannover-4541189.html",
+            "date": "26.09.2019",
+            "year": "2019"
+        },
+        {
+            "name": "Universität Gießen",
+            "lat": "50.58073525472247",
+            "long": "8.677098435280982",
+            "link": "https://www.heise.de/newsticker/meldung/Uni-Giessen-offline-und-lahmgelegt-Cyber-Ermittler-eingeschaltet-4608662.html",
+            "date": "09.12.2019",
+            "year": "2019"
+        },
+        {
+            "name": "Katholische Hochschule Freiburg",
+            "lat": "48.00400789691404",
+            "long": " 7.857480726868274",
+            "link": "https://www.heise.de/newsticker/meldung/Shutdown-der-IT-Infrastruktur-Malware-befaellt-Katholische-Hochschule-Freiburg-4620194.html",
+            "date": "19.12.2019",
+            "year": "2019"
+        },
+        {
+            "name": "TU Berlin",
+            "lat": "52.51259746641021",
+            "long": "13.32691241005908",
+            "link": "https://www.heise.de/news/Cyberangriff-TU-Berlin-rechnet-mit-monatelangen-IT-Einschraenkungen-6061688.html",
+            "date": "21.06.2021",
+            "year": "2021"
+        },
+        {
             "name": "Universität Leipzig",
             "lat": "51.33901552661628",
             "long": "12.378484817654831",
@@ -9,12 +49,108 @@
             "year": "2021"
         },
         {
+            "name": "Universität Neuenburg (Neuchâtel-Université)",
+            "lat": "46.99400854661084",
+            "long": "6.938703098338694",
+            "link": "https://www.fm1today.ch/schweiz/universitaet-neuenburg-von-hackern-angegriffen-145512415",
+            "date": "18.02.2022",
+            "year": "2022"
+        },
+        {
             "name": "Uni-Bibliothek Leipzig",
             "lat": "51.33281062965187",
             "long": "12.368371383183284",
             "link": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/hacker-angriff-universitaet-bibliothek-100.html",
             "date": "27.04.2022",
             "year": "2022"
+        },
+        {
+            "name": "PH Freiburg",
+            "lat": "47.980912680971144",
+            "long": "7.892471353691278",
+            "link": "https://www.swr.de/swraktuell/baden-wuerttemberg/suedbaden/ph-freiburg-von-cyberangriff-betroffen-100.html",
+            "date": "10.06.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Fachhochschule Münster",
+            "lat": "51.97194944789303",
+            "long": "7.595442493833062",
+            "link": "https://www1.wdr.de/nachrichten/westfalen-lippe/hackerangriff-fachhochschule-muenster-fh-100.html",
+            "date": "23.06.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Bergische Universität Wuppertal",
+            "lat": "51.24516944577138",
+            "long": "7.149426966813448",
+            "link": "26.07.2022",
+            "date": "https://www1.wdr.de/nachrichten/rheinland/hackerangriff-auf-wuppertaler-universitaet-100.html",
+            "year": "2022"
+        },
+        {
+            "name": "Hochschule Ansbach",
+            "lat": "49.31287462029946",
+            "long": "10.5672619284774",
+            "link": "https://www.sueddeutsche.de/bayern/hackerangriff-hochschule-ansbach-lka-cyberattacke-1.5678669",
+            "date": "20.10.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Hochschule Heilbronn",
+            "lat": "49.12188926543984",
+            "long": "9.211406858124464",
+            "link": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberangriff-durch-hacker-bestaetigt-hochschule-heilbronn-100.html",
+            "date": "03.11.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Technische Hochschule Ulm",
+            "lat": "48.40855602073308",
+            "long": "9.998293112505305",
+            "link": "https://www.augsburger-allgemeine.de/neu-ulm/ulm-cyberangriff-auf-die-hochschule-ulm-id64650131.html",
+            "date": "12.11.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Universität Duisburg-Essen",
+            "lat": "51.43337049989403",
+            "long": "6.802082052295569",
+            "link": "https://www1.wdr.de/nachrichten/ruhrgebiet/universitaet-duisburg-essen-stoerung-100.html",
+            "date": "28.11.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Universität Duisburg-Essen",
+            "lat": "51.4277224735187",
+            "long": "6.79900813012635",
+            "link": "https://www.t-online.de/region/essen/id_100097744/uni-duisburg-essen-erneut-opfer-eines-hackerangriffs.html",
+            "date": "15.12.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Westsächsische Hochschule Zwickau",
+            "lat": "50.713909859787854",
+            "long": "12.49777140782187",
+            "link": "https://www.mdr.de/nachrichten/sachsen/chemnitz/zwickau/hackerangriff-cyberangriff-cyberattacke-westsaechsische-hochschule-100.html",
+            "date": "30.12.2022",
+            "year": "2022"
+        },
+        {
+            "name": "Hochschule für Angewandte Wissenschaften Hamburg",
+            "lat": "53.55487009539829",
+            "long": "10.020802615688522",
+            "link": "https://www.heise.de/news/Hochschule-fuer-Angewandte-Wissenschaften-Hamburg-hart-von-Cyberattacke-getroffen-7449611.html",
+            "date": "05.01.2023",
+            "year": "2023"
+        },
+        {
+            "name": "Universität Innsbruck",
+            "lat": "47.263601750201886",
+            "long": "11.383864972893273",
+            "link": "https://www.derstandard.de/story/2000142607899/cyberangriff-auf-it-der-universitaet-innsbruck",
+            "date": "16.01.2023",
+            "year": "2023"
         },
         {
             "name": "TU Bergakademie Freiberg",
