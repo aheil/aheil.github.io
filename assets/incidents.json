@@ -159,6 +159,14 @@
             "link": "https://www.forschung-und-lehre.de/management/tu-freiberg-komplett-offline-5334",
             "date": "19.01.2023",
             "year": "2023"
+        },
+        {
+            "name": "Hochschule Ruhr West",
+            "lat": "51.427641289990014",
+            "long": "6.857493784616811",
+            "link": "https://www.hochschule-ruhr-west.de/hrwoffline",
+            "date": "31.01.2023",
+            "year": "2023"
         }
     ]
 }
