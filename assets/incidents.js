@@ -20,7 +20,7 @@ function addIncident(incident, popup) {
   }
 
   var marker = L.marker([incident.lat, incident.long]).addTo(map);
-  marker.bindPopup("<b>" + incident.name + "</b><br>" + incident.date + "<br>" + incident.link).setOpacity(opacity);
+  marker.bindPopup("<b>" + incident.name + "</b><br>" + incident.date + "<br>" + "<a href=\"" + incident.link + "\">" + incident.link + "</a > ").setOpacity(opacity);
   if (popup)
     marker.openPopup();
 }
