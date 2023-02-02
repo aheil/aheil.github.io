@@ -175,6 +175,14 @@
             "link": "https://www.hochschule-ruhr-west.de/hrwoffline",
             "date": "31.01.2023",
             "year": "2023"
+        },
+        {
+            "name": "Hochschule Harz",
+            "lat": "51.82606906116155",
+            "long": "10.761864441726292",
+            "link": "https://www.faz.net/agenturmeldungen/dpa/hochschule-harz-nach-digitalem-angriff-offline-18646415.html",
+            "date": "01.02.2023",
+            "year": "2023"
         }
     ]
 }
