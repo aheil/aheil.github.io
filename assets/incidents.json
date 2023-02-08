@@ -183,6 +183,15 @@
             "link": "https://www.faz.net/agenturmeldungen/dpa/hochschule-harz-nach-digitalem-angriff-offline-18646415.html",
             "date": "01.02.2023",
             "year": "2023"
+        },
+        {
+            "name": "Universität Graz",
+            "lat": "47.07827009113322",
+            "long": "15.449601106022257",
+            "link": "https://www.diepresse.com/6248525/cyberangriff-an-uni-graz-zugriff-auf-sensible-daten-nicht-ausgeschlossen",
+            "date": "07.02.2023",
+            "year": "2023"
+
         }
     ]
 }
