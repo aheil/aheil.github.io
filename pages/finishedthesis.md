@@ -9,6 +9,10 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
+
+## 2023
+
+- Thiago Welter, _Advantages and Dissemination of Automated System Testing_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2023
 ## 2022
 
 - Kim Petra Weiß, _Automatisierungsmöglichkeiten im Transport- und Auftragsmanagement_, Bachelor Thesis (B.Sc.),  Hochschule Heilbronn/Universität Heidelberg (Bechtle AG), 2022
