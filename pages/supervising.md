@@ -124,4 +124,15 @@ PUB: Public, Dokument ist "published", i.e. completed
 
 Beispiel: `2019-10-25-DRF-Thesis.pdf`
 
+## Hinweise für Vorträge 
+
+- Kein Dark Mode für Code 
+- Keine Farbschlacht auf den Folien
+- Heller Hintergrund, große Schrift
+- Keine "Dark Mode Folien" 
+- Ordentliche Bilder in guter Qualität
+- Quellenangaben 
+- Seitennummern (1/42)
+
+
 
