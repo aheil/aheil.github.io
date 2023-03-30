@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Spohrer, Dennis, _Weiterentwicklung einer globalen & lokalen Code-Analyse_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2023
+
 - Thiago Welter, _Advantages and Dissemination of Automated System Testing_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2023
 ## 2022
 
