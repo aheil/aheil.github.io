@@ -65,6 +65,14 @@
             "year": "2022"
         },
         {
+            "name": "Technische Hochschule Aschaffenburg",
+            "lat": "49.97135279051302",
+            "long": "9.16055284096159",
+            "link": "https://www.br.de/nachrichten/bayern/ein-monat-nach-cyberangriff-auswirkungen-auf-th-aschaffenburg,T4GvcLE",
+            "date": "28.03.2022",
+            "year": "2022"
+        },
+        {
             "name": "Uni-Bibliothek Leipzig",
             "lat": "51.33281062965187",
             "long": "12.368371383183284",
@@ -185,13 +193,20 @@
             "year": "2023"
         },
         {
+            "name": "Universität Zürich",
+            "lat": "47.37506933458063",
+            "long": "8.550877158698",
+            "link": "https://www.beobachter.ch/digital/sicherheit/cyberangriff-auf-universitat-zurich-uzh-hack-wurde-auf-plattform-fur-10-dollar-angeboten-570369",
+            "date": "03.02.2023",
+            "year": "2023"
+        },
+        {
             "name": "Universität Graz",
             "lat": "47.07827009113322",
             "long": "15.449601106022257",
             "link": "https://www.diepresse.com/6248525/cyberangriff-an-uni-graz-zugriff-auf-sensible-daten-nicht-ausgeschlossen",
             "date": "07.02.2023",
             "year": "2023"
-
         }
     ]
 }
