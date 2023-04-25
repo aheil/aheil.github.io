@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Felix Reimund, _Entwicklung einer prototypischen Anwendung zur Metagenom-Analyse menschlicher Samples auf Pathogene_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg, 2023
+
 - Fabian Coenen, _Entwicklung eines Microservice zur Bewertung der Datenqualität beim Monitoring von Produktionsanlagen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (BMW Motoren GmbH), 2023
 
 - Alisia Larocca, _Konzeption und Durchführung einer Markanalyse der Apple App Store Applikationen in der Kategorie Medizin_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg, 2023
