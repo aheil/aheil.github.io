@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Lukas Ertl, _Machbarkeitsanalyse eines Softwareprodukts als Grundlage für Startup-Unternehmen_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2023
+
 - Mehdi Gharakhan, _Wiederverwendbare Funktionalitäten bei Microservices_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
 - Felix Reimund, _Entwicklung einer prototypischen Anwendung zur Metagenom-Analyse menschlicher Samples auf Pathogene_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg, 2023
@@ -104,21 +106,21 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 - Patrick Wagner, _Auswahl eine Standardframeworks für die Erstellung von Graphen innerhalb einer React-Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2021
 
 ## 2020
-- Michael Graf, Bedeutung von Telemetrie für den Software Development Life Cycle, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2020, [urn:nbn:&#8203;de:bsz:840-opus4-1751](https://nbn-resolving.org/urn:nbn:de:bsz:840-opus4-1751)  
+- Michael Graf, _Bedeutung von Telemetrie für den Software Development Life Cycle_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2020, [urn:nbn:&#8203;de:bsz:840-opus4-1751](https://nbn-resolving.org/urn:nbn:de:bsz:840-opus4-1751)  
 
-- Jeffrey M. Rietzler, Agiles Projektmanagement – Konzeption eines Vorgehensmodells für die Softwareentwicklung in Handelsunternehmen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2020
+- Jeffrey M. Rietzler, _Agiles Projektmanagement – Konzeption eines Vorgehensmodells für die Softwareentwicklung in Handelsunternehmen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2020
 
-- Thomas Malina, Konzeption und prototypische Implementierung eines Online-Update Mechanismus für das Engineering-Tool MOVIESUITE, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2020
+- Thomas Malina, _Konzeption und prototypische Implementierung eines Online-Update Mechanismus für das Engineering-Tool MOVIESUITE_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2020
 
-- Inga Batton, Proof of Concept für eine smarte Shopping Liste, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dmTech GmbH), 2020
+- Inga Batton, _Proof of Concept für eine smarte Shopping Liste_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dmTech GmbH), 2020
 
-- Sergej B. Vizgalov, Entwicklung einer App zur Steuerung einer Ladeinfrastruktur, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (ProSystems GmbH), 2020, Teil des durch das BMBF geförderten Forschungsprojektes SiLis (Sicheres Ladeinfrastruktursystem für Elektrofahrzeuge) 
+- Sergej B. Vizgalov, _Entwicklung einer App zur Steuerung einer Ladeinfrastruktur_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (ProSystems GmbH), 2020, Teil des durch das BMBF geförderten Forschungsprojektes SiLis (Sicheres Ladeinfrastruktursystem für Elektrofahrzeuge) 
 
-- Pooja Gujalwar, Text Simplification in Web-based IT Customer Support Solutions - User Preferences and Applications, Master Thesis (M.Sc.), Hochschule Heilbronn, 2020
+- Pooja Gujalwar, _Text Simplification in Web-based IT Customer Support Solutions - User Preferences and Applications_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2020
 
-- Sonja Zaher, Fehlerquellen und Erfolgsfaktoren durch Scrum Tools im IT-Projektmanagement, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2020
+- Sonja Zaher, _Fehlerquellen und Erfolgsfaktoren durch Scrum Tools im IT-Projektmanagement_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2020
 
-- Dimitri Dobler, Ganzheitliche Software-Deployment-Prozesse für Industrial-IoT Hardware, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2020
+- Dimitri Dobler, _Ganzheitliche Software-Deployment-Prozesse für Industrial-IoT Hardware_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2020
 
 ## 2019
 - Tim Ebert, Untersuchung und Implementierung automatischer Skalierungsstrategien in Kubernetes, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2019
