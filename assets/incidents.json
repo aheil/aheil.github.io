@@ -208,5 +208,14 @@
             "date": "07.02.2023",
             "year": "2023"
         }
+        ,
+        {
+            "name": "Hochschule Kaiserslautern",
+            "lat": "49.447307684329715",
+            "long": "7.759369946702302",
+            "link": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/hackerangriff-auf-hochschule-in-kaiserslautern-102.html",
+            "date": "08.06.2023",
+            "year": "2023"
+        }
     ]
 }

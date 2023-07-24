@@ -24,8 +24,13 @@ Als Professor für Software Engineering unterrichte ich an der Fakultät für In
 
 Im Studiengang Medizinische Informatik Bachelor unterrichte ich die Fächer: 
 
-- Software Labor 1 (MIB2)
 - Software Labor 2 (MIB3)
+
+Und im Master-Studiengang Software Engineering (SEM) das Fach 
+
+- Advanced Software Architecture
+
+Die Veranstaltung Advanced Software Architecture wird im COIL-Format ebenfalls für die [Vietnamese-German University](https://vgu.edu.vn/) angeboten. 
 
 Im Rahmen eines Lehrauftrages unterrichte ich überdies an der DHBW in Karlsruhe das Fach:
 

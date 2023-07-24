@@ -11,7 +11,9 @@ Hier finden Sie offene Ausschreibungen die von mir, oder von Unternehmen, deren 
 
 ## Offene Arbeiten 
 
-Derzeit sind keine offenen Arbeiten zu vergeben.
+<!-- Derzeit sind keine offenen Arbeiten zu vergeben. -->
+
+- [KI-gestütztes Software Engineering](https://cdn.aheil.de/BTh.KI-SE.pdf)
 
 ## Vergebene Arbeiten 
 
