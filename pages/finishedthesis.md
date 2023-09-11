@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Philipp Alessandrini, _Entwicklung einer Benutzungsschnittstelle zur Erstellung und Visualisierung von Streckenbeschreibungen für mobile Roboter_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SEW-EURODRIVE GmbH & Co KG), 2023
+
 - Lukas Ertl, _Machbarkeitsanalyse eines Softwareprodukts als Grundlage für Startup-Unternehmen_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2023
 
 - Mehdi Gharakhan, _Wiederverwendbare Funktionalitäten bei Microservices_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
