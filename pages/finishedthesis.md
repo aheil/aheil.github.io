@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Luisa Springer, _Entwicklung einer Korrelationslogik für Sicherheitsalarme innerhalb eines SOAR-Systems_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
+
 - Philipp Alessandrini, _Entwicklung einer Benutzungsschnittstelle zur Erstellung und Visualisierung von Streckenbeschreibungen für mobile Roboter_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SEW-EURODRIVE GmbH & Co KG), 2023
 
 - Lukas Ertl, _Machbarkeitsanalyse eines Softwareprodukts als Grundlage für Startup-Unternehmen_, Master Thesis (M.Sc.), Hochschule Heilbronn, 2023
@@ -125,24 +127,24 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 - Dimitri Dobler, _Ganzheitliche Software-Deployment-Prozesse für Industrial-IoT Hardware_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (ebm-papst Mulfingen GmbH & Co. KG), 2020
 
 ## 2019
-- Tim Ebert, Untersuchung und Implementierung automatischer Skalierungsstrategien in Kubernetes, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2019
+- Tim Ebert, _Untersuchung und Implementierung automatischer Skalierungsstrategien in Kubernetes_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2019
 
-- Nicolas Ernst, Konzeption und Entwicklung eines Softwaresystems zum Vergleich unterschiedlicher Infrastrukturen für die Vernetzung von Antriebssystemen, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2019
+- Nicolas Ernst, _Konzeption und Entwicklung eines Softwaresystems zum Vergleich unterschiedlicher Infrastrukturen für die Vernetzung von Antriebssystemen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2019
 
-- Simon Pflüger, Entwicklung eines Konzepts zur Automatisierung von .NET Anwendungen durch Einbettung einer Scriptengine, Bachelor Thesis (B.Eng.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2019
+- Simon Pflüger, _Entwicklung eines Konzepts zur Automatisierung von .NET Anwendungen durch Einbettung einer Scriptengine_, Bachelor Thesis (B.Eng.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2019
 
-- Iven Krall, Kai Wachendörfer, Application for Automatic Template Based Optical Character Recognition Invoice Processing, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2019
+- Iven Krall, Kai Wachendörfer, _Application for Automatic Template Based Optical Character Recognition Invoice Processing_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2019
 
-- Sebastian Merker, Intelligente Erkennung und Korrektur von Fehlern in Nachrichten von Enterprise Messaging Systemen, Masterarbeit (M.Sc.), Ruprecht-Karls-Universität Heidelberg (dm-drogerie markt GmbH + Co. KG), 2019
+- Sebastian Merker, _Intelligente Erkennung und Korrektur von Fehlern in Nachrichten von Enterprise Messaging Systemen_, Masterarbeit (M.Sc.), Ruprecht-Karls-Universität Heidelberg (dm-drogerie markt GmbH + Co. KG), 2019
 
 ## 2018
-- Jonas Dunker, Evaluierung aktueller Augmented Reality System und Pilotierung als Assistenzsystem in der Smart Factory, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2018
+- Jonas Dunker, _Evaluierung aktueller Augmented Reality System und Pilotierung als Assistenzsystem in der Smart Factory_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2018
 
-- Fabian Brenner, Entwicklung einer Software zur grafischen Modellierung von Roboterzellen, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2018
+- Fabian Brenner, _Entwicklung einer Software zur grafischen Modellierung von Roboterzellen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2018
 
-- Marco Crocoll, Entwicklung eines Prozess-Frameworks für die Datenlogistik im Handel auf Basis einer Business Process Management Engine, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dm-drogerie markt GmbH + Co. KG), 2018
+- Marco Crocoll, _Entwicklung eines Prozess-Frameworks für die Datenlogistik im Handel auf Basis einer Business Process Management Engine_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (dm-drogerie markt GmbH + Co. KG), 2018
 
 ## 2009
-- Marcus Winkler, Verwaltung und Integration Föderativer RFID-Infrastrukturen, Diplomarbeit (Dipl.-Inform.), Technische Universität Chemnitz, 2009
+- Marcus Winkler, _Verwaltung und Integration Föderativer RFID-Infrastrukturen_, Diplomarbeit (Dipl.-Inform.), Technische Universität Chemnitz, 2009
 
-- Ralph Sommermeier, Föderative Anbindung, Verteilung und Visualisierung von VodooIO-Komponenten für umgebungsbewusste Web-Anwendungen, Diplomarbeit (Dipl.-Inform.), Technische Universität Chemnitz, 2009
+- Ralph Sommermeier, _Föderative Anbindung, Verteilung und Visualisierung von VodooIO-Komponenten für umgebungsbewusste Web-Anwendungen_, Diplomarbeit (Dipl.-Inform.), Technische Universität Chemnitz, 2009
