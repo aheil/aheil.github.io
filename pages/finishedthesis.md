@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Josefine Ebel, _Integration von SAP Monitoring Use Cases in eine bestehende SIEM/SOAR Lösung und Prozesse_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
+
 - Luisa Springer, _Entwicklung einer Korrelationslogik für Sicherheitsalarme innerhalb eines SOAR-Systems_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
 - Philipp Alessandrini, _Entwicklung einer Benutzungsschnittstelle zur Erstellung und Visualisierung von Streckenbeschreibungen für mobile Roboter_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SEW-EURODRIVE GmbH & Co KG), 2023
