@@ -13,10 +13,11 @@ Hier finden Sie offene Ausschreibungen die von mir, oder von Unternehmen, deren 
 
 <!-- Derzeit sind keine offenen Arbeiten zu vergeben. -->
 
-- [KI-gestütztes Software Engineering](https://cdn.aheil.de/BTh.KI-SE.pdf)
+Derzeit sind keine offenen Arbeiten zu vergeben.
 
 ## Vergebene Arbeiten 
 
+- [KI-gestütztes Software Engineering](https://cdn.aheil.de/BTh.KI-SE.pdf)
 - [Alternativen zum MVC Design Pattern (Exxeta AG)](https://cdn.aheil.de/BTh.MVC.Exxeta.pdf)
 - [Analyse von Zertifizierungen für (mobile) Anwendungen](https://cdn.aheil.de/BTh.Zertifizierungen.pdf)
 - [Analyse von Qualitätsmerkmalen mobiler Anwendungen](https://cdn.aheil.de/BTh.Qualitaetsmerkmale.pdf)

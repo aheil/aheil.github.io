@@ -12,7 +12,7 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
-- Heiko Graceffa, Fehlervermeidung manueller Montageprozesse durch KI gestützte Bauteilerkennung_, Hochschule Heilbronn, 2023
+- Heiko Graceffa, _Fehlervermeidung manueller Montageprozesse durch KI gestützte Bauteilerkennung_, Hochschule Heilbronn, 2023
 
 - Jan Oster, _Verfahren zur Cloud-Migration einer Unternehmens-Applikation Am Beispiel eines Teilsystems der Applikation Einkaufskontraktsystem_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
