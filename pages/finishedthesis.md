@@ -14,14 +14,14 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Jennifer Zaminer, _Evaluation eines Ausbringungsprozesses von Workflowklassen mit DevOps_, Bachelo Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Oberfinanzdirektion Karlsruhe (LZfD)), 2023
 
-- Leon Neumann, _Web-USB zur Hardwareanbindung an Webapplikationen_, Bachelor Thesis (B.Sc.),Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Interflex Datensysteme GmbH), 2023
+- Leon Neumann, _Web-USB zur Hardwareanbindung an Webapplikationen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Interflex Datensysteme GmbH), 2023
 
 - Tom Naujox, _Entwurf und Implementierung einer sicheren Softwarelösung zum Deployment von Artifactory-basierten
-Setuppaketen mittels C# und WPF_, Bachelor Thesis (B.Sc.),Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2023
+Setuppaketen mittels C# und WPF_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2023
 
-- Danilo Mischke, _Evaluation von Infrastructure as Code Lösungen im Bereich Cloud Provider_, Bachelor Thesis (B.Sc.),Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (DIGITALL Nature Germany GmbH), 2023
+- Danilo Mischke, _Evaluation von Infrastructure as Code Lösungen im Bereich Cloud Provider_, Bachelor Thesis (B.Sc.),  Hochschule Baden-Württemberg (DHBW) Karlsruhe (DIGITALL Nature Germany GmbH), 2023
 
-- Markus Ludwig, _Blazor WebAssembly: Überprüfung eines Blazor Server Migrationsprozesses_, Bachelor Thesis (B.Sc.),Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2023
+- Markus Ludwig, _Blazor WebAssembly: Überprüfung eines Blazor Server Migrationsprozesses_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2023
 
 - Johann Kärcher, _Konzeption, Entwicklung und Evaluation eines Software-Systems zur Analyse von Frameworks und Bibliotheken in Android Apps_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg, 2023
 
