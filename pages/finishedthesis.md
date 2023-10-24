@@ -25,7 +25,7 @@ Setuppaketen mittels C# und WPF_, Bachelor Thesis (B.Sc.),Duale Hochschule Baden
 
 - Johann Kärcher, _Konzeption, Entwicklung und Evaluation eines Software-Systems zur Analyse von Frameworks und Bibliotheken in Android Apps_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg, 2023
 
-- Heiko Graceffa, _Fehlervermeidung manueller Montageprozesse durch KI gestützte Bauteilerkennung_, Hochschule Heilbronn, 2023
+- Heiko Graceffa, _Fehlervermeidung manueller Montageprozesse durch KI gestützte Bauteilerkennung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2023
 
 - Jan Oster, _Verfahren zur Cloud-Migration einer Unternehmens-Applikation Am Beispiel eines Teilsystems der Applikation Einkaufskontraktsystem_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
