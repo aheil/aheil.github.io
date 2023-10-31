@@ -12,7 +12,9 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
-- Jennifer Zaminer, _Evaluation eines Ausbringungsprozesses von Workflowklassen mit DevOps_, Bachelo Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Oberfinanzdirektion Karlsruhe (LZfD)), 2023
+- Florian Dörheim, _Konzeption und prototypische Implementierung einer API für die Verteilung von Hypervisoren in einer Cloud-Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
+
+- Jennifer Zaminer, _Evaluation eines Ausbringungsprozesses von Workflowklassen mit DevOps_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Oberfinanzdirektion Karlsruhe (LZfD)), 2023
 
 - Leon Neumann, _Web-USB zur Hardwareanbindung an Webapplikationen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Interflex Datensysteme GmbH), 2023
 
