@@ -7,9 +7,9 @@ weight: 6
 
 # EduSec
 
-## Sicherheitsvorfälle an deutschen Hochschulen
+## Sicherheitsvorfälle an deutschsprachigen Hochschulen
 
-Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, sammle ich auf dieser Seite Informationen zu Vorfällen an deutschen Hochschulen. 
+Seit wir selbst an unserer Hochschule von einem Hacker-Angriff betroffen waren, sammle ich auf dieser Seite Informationen zu Vorfällen an (überwiegend, aber nicht nur) deutschen bzw. deutschsprachigen Hochschulen. 
 
  <div id="map" style="height: 640px;" ></div>
 
