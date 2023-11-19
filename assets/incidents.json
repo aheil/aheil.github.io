@@ -223,6 +223,30 @@
       "link": "https://h-ka.statusinfo.live/",
       "date": "04.10.2023",
       "year": "2023"
+    },
+    {
+      "name": "Hochschule Furtwangen",
+      "lat": "48.051752896462204",
+      "long": "8.20712291219651",
+      "link": "https://www.hs-furtwangen.de/aktuelles/informationen-zum-cyberangriff/",
+      "date": "18.09.2023",
+      "year": "2023"
+    },
+    {
+      "name": "DHBW Villingen-Schwenningen",
+      "lat": "48.06096061798675",
+      "long": "8.53521511483282",
+      "link": "https://www.dhbw-vs.de/hochschule/wichtige-hinweise-nach-cyberangriff.html",
+      "date": "19.09.2023",
+      "year": "2023"
+    },
+    {
+      "name": "Hochschule Hannover",
+      "lat": "52.35412888299779",
+      "long": "9.72345852421407",
+      "link": "https://www.hs-hannover.de/ueber-uns/organisation/kom/informationen-fuer-hochschulangehoerige-zum-cyberangriff",
+      "date": "30.10.2023",
+      "year": "2023"
     }
   ]
 }
