@@ -158,4 +158,4 @@ Sofern die URL abgedruckt werden darf, können sie diese hier ebenfalls aufnehme
 
 Bitte beachten Sie, dass diese Methode nur anwendbar ist, wenn das interne Dokument einen Link besitzt. Wenn das Dokument keinen Link besitzt, gilt es als ‘persönliche Kommunikation’ und erhält keinen Eintrag im Literaturverzeichnis.
 
-Weitere Informationen: https://www.scribbr.de/apa-standard/interne-dokumente/
+Weitere Informationen: [https://www.scribbr.de/apa-standard/interne-dokumente/](https://www.scribbr.de/apa-standard/interne-dokumente/)
