@@ -61,7 +61,7 @@ Gerne betreue ich auch Arbeiten, die außerhalb meines eigentlichen Forschungsge
 Sollten Sie als Betreuer einer Unternehmung spannende Themen für unserer Student:innen anbieten wollen, die in meinen Kompetenzen liegt, kommen Sie gerne auf mich zu. Gerne übernehme ich die Betreuung und schreibe gemeinsam betreute Arbeiten für unserer Student:innen aus.
 
 
-### MIB BOT
+### MIB GPT
 
 Als Experiment steht ein Experten GPT (Generative Pretrained Transformer) für den Studiengang Medizinische Informatik Bachelor zur Verfügung. Der MIB GPT ist mit zahlreichen Informationen über den Studiengang Medizinische Informatik Bachelor trainiert und wird fortwährend verfeinert.
 
@@ -69,4 +69,4 @@ Als Experiment steht ein Experten GPT (Generative Pretrained Transformer) für d
 
 Erfordert ein ChatGPT Plus Account.
 
-Inhalte, Verbesserungsvorschläge und mögliche Korrekturen zum GPT können in [🩻-mib-gpt Discord Channel](https://discord.gg/CtQMMrsQ) diskutiert werden.
+Zusätzliche Inhalte, Verbesserungsvorschläge und mögliche Korrekturen zum GPT können in [🩻-mib-gpt Discord Channel](https://discord.gg/CtQMMrsQ) diskutiert werden.
