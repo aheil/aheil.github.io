@@ -17,6 +17,8 @@ Buchen Sie unter [https://cal.com/aheil] hierfür einen 30-Minuten Termin. Die T
 
 Sie können das gesamte Semester über einen Termin zur Klausureinsicht wahrnehmen. 
 
+Die Klausureinsicht findet online unter [https://hhn.webex.com/mmet/andreas.heil] statt.
+
 ## Muss ich zur Abgabe meiner Abschlußarbeit immatrikuliert sein? 
 
 Nein, am Tag Ihrer Anmeldung müssen Sie immatrikuliert sein und alle Voraussetzungen gemäß der für Sie gültigen SPO erfüllen. Bei der Abgabe müssen Sie nicht mehr immatrikuliert sein. 
