@@ -13,11 +13,11 @@ Hier finden Sie Fragen und Antworten, die öfters gestellt werden.
 
 Ja, Sie können im Folgesemester einen Online-Termin wahrnehmen, in dem wir gemeinsam Ihre Klausur durchsprechen. 
 
-Buchen Sie unter [https://cal.com/aheil] hierfür einen 30-Minuten Termin. Die Termine starten in der Regel in der zweiten Vorlesungswoche und stehen ein bis zwei Wochen vor Vorlesungsbeginn zur Buchung Verfügung.
+Buchen Sie unter [https://cal.com/aheil](https://cal.com/aheil) hierfür einen 30-Minuten Termin. Die Termine starten in der Regel in der zweiten Vorlesungswoche und stehen ein bis zwei Wochen vor Vorlesungsbeginn zur Buchung Verfügung.
 
 Sie können das gesamte Semester über einen Termin zur Klausureinsicht wahrnehmen. 
 
-Die Klausureinsicht findet online unter [https://hhn.webex.com/mmet/andreas.heil] statt.
+Die Klausureinsicht findet online unter [https://hhn.webex.com/mmet/andreas.heil](https://hhn.webex.com/mmet/andreas.heil) statt.
 
 ## Muss ich zur Abgabe meiner Abschlußarbeit immatrikuliert sein? 
 
