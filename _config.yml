@@ -27,6 +27,7 @@ nav_exclude:                                            # The following paths ar
   - pages/supervising.md
   - pages/grading.md
   - pages/edusec.md
+  - pages/edufaq.md
 
 
 ### Author Info ###
@@ -48,7 +49,7 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
   twitch            : profaheil
-  twitter           : aheil
+# twitter           : aheil
 # vimeo             : your_username
   youtube           : c/AndreasHeil
 # keybase           : your_username
