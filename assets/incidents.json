@@ -255,6 +255,14 @@
       "link": "https://www.tagesspiegel.de/wissen/sicherheitsvorfall-berliner-hochschule-fur-technik-von-cyberangriff-betroffen-11243161.html",
       "date": "20.02.2024",
       "year": "2024"
+    },
+    {
+      "name": "Hochschule Kempten",
+      "lat": "47.71585961933452",
+      "long": "10.314038063785404",
+      "link": "https://www.hs-kempten.de/hochschule/aktuelles/artikel/hacker-angriff-auf-die-hochschule-kempten-2598",
+      "date": "27.02.2024",
+      "year": "2024"
     }
   ]
 }
