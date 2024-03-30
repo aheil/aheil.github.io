@@ -6,7 +6,7 @@ description: "Minecraft als Familienspiel"
 
 ## tl;dr 
 
-Minecraft als Familienspiel: Vor wenigen Tagen berichtet [Ralf Stockman](https://chaos.social/@rstockm) in der Freakshow über Minecraft als Familienspie - und verweist auf [seine umfassende Zusammenfassung zur Installation und Setup](https://pad.wolkenbar.de/s/minecraft). Hier werden einige "missing Links" ergänzt, insbesondere, wenn der  Server selbst in Docker gehostet wird.  
+Minecraft als Familienspiel: Vor wenigen Tagen berichtet [Ralf Stockman](https://chaos.social/@rstockm) in [Episode FS276 der Freakshow](https://freakshow.fm/fs276-remember-we-are-in-the-eighties-so-dress-accordingly) über Minecraft als Familienspie - und verweist auf [seine umfassende Zusammenfassung zur Installation und Setup](https://pad.wolkenbar.de/s/minecraft). Hier werden einige "missing Links" ergänzt, insbesondere, wenn der  Server selbst in Docker gehostet wird.  
 
 ## Hintergrund
 
@@ -177,9 +177,9 @@ Tatsächlich habe ich es ca. 2h mit einem anderen Server versucht, der diese Opt
 
 ## Backups 
 
-Optional wäre der [kaiede/minecraft-bedrock-backup](https://hub.docker.com/r/kaiede/minecraft-bedrock-backup) Backup-Container noch eine Möglichkeit den Minecraft Server zu backupen. Ich selbst habe es nicht getestet, da die Bakcups über meine bereits existierende Löäsung zum Nulltarif mikommen. Erfahrungsberichte gerne an [mich](https://chaos.social/@aheil). 
+Optional wäre der [kaiede/minecraft-bedrock-backup](https://hub.docker.com/r/kaiede/minecraft-bedrock-backup) Backup-Container noch eine Möglichkeit den Minecraft Server zu backupen. Ich selbst habe es nicht getestet, da die Backups über meine bereits existierende Lösung zum Nulltarif mitkommen. Erfahrungsberichte gerne an [mich](https://chaos.social/@aheil). 
 
-### Links 
+## Links 
 - Ralf Stockmann auf Mastodon: [https://chaos.social/@rstockm](https://chaos.social/@rstockm) 
 - Minecraft in der Familie mit jüngeren Kindern spielen - Wege zum Ziel: 
 [https://pad.wolkenbar.de/s/minecraft](https://pad.wolkenbar.de/s/minecraft)
