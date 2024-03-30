@@ -247,6 +247,22 @@
       "link": "https://www.hs-hannover.de/ueber-uns/organisation/kom/informationen-fuer-hochschulangehoerige-zum-cyberangriff",
       "date": "30.10.2023",
       "year": "2023"
+    },
+    {
+      "name": "Berliner Hochschule für Technik (BHT)",
+      "lat": "52.54512206035864",
+      "long": "13.351537831002583",
+      "link": "https://www.tagesspiegel.de/wissen/sicherheitsvorfall-berliner-hochschule-fur-technik-von-cyberangriff-betroffen-11243161.html",
+      "date": "20.02.2024",
+      "year": "2024"
+    },
+    {
+      "name": "Hochschule Kempten",
+      "lat": "47.71585961933452",
+      "long": "10.314038063785404",
+      "link": "https://www.hs-kempten.de/hochschule/aktuelles/artikel/hacker-angriff-auf-die-hochschule-kempten-2598",
+      "date": "27.02.2024",
+      "year": "2024"
     }
   ]
 }
