@@ -167,7 +167,7 @@ Grundsätzlich muss ein Server ausgewählt werden, der selbst eine Liste von Min
 
 Hier taucht der magische Bildschirm auf, in dem der eigene Server ausgewählt bzw. in die Liste eingetragen werden kann. Einmal eingetragen, kann man den Server dort immer wieder finden.
 
-![Switch Screenshot - Minecraft ServerList ](../assets/img/2024-03-29-serverlist.md)
+![Switch Screenshot - Minecraft ServerList ](../assets/img/2024-03-29-serverlist.png)
 
 Tatsächlich habe ich es ca. 2h mit einem anderen Server versucht, der diese Option nicht anbiete. Den entscheidenden Hinweis habe ich [diesem Video](https://youtu.be/MBj3NuCjyFo?si=mVWZs5u56xK90Ctq) von [Cove Wolf](https://www.youtube.com/@CoveWolf/) erhalten.
 
