@@ -10,7 +10,7 @@ Minecraft als Familienspiel: Vor wenigen Tagen berichtet [Ralf Stockman](https:/
 
 ## Hintergrund
 
-![DALL·E 3 generiertes Bild, Prompt: Hacker Dad, der mit seinem Sohn Minecraft spielt und viel Spaß dabei hat.](/img/2024-03-29-hacker-dad-minecraft.jpg)
+![DALL·E 3 generiertes Bild, Prompt: Hacker Dad, der mit seinem Sohn Minecraft spielt und viel Spaß dabei hat.](../assets/img/2024-03-29-hacker-dad-minecraft.jpg)
 
 Mein (jetzt) 6-jähriger Sohn liegt mir schon seit geraumer Zeit in den Ohren, dass er Minecraft spielen möchte. Wir sind so verblieben, dass ich vorschlug es zu kaufen wenn das Spiel im Sonderangebot zu haben sei. Seither kommt täglich die Frage, ob Minecraft im Sonderangebot ist. Ok, selbst schuld. Warum ich es bisher hinausgezögert habe, ist die geringe Kontrolle im gesamten Ökosystem. Da kam der Bericht bzw. der Zusammenschreib von Ralf Stockman gerade recht. Am Ende hat es mich ein Abend und ein Vormittag gekostet alles aufzusetzen. Und 100€ für Lizenzen auf zwei Plattformen als auch den Gebühren für Nintendo Online und XBOX Live. Danke der Anleitung von Ralf hat es mich nur 5% der Nerven gekostet, die so ein Unterfangen sonst hätte - mit zwei kleinen Kindern im Haushalt. Betroffene wissen sehr wohl, wovon ich rede. 
 
@@ -128,15 +128,15 @@ Das einzige, was nicht via Docker Compose zu setzen war. Sollte eigentlich via `
 
 Dazu muss man einen Blick in das Datenverzeichnis (bei mir `/srv/minecraft`) werfen und die `permissions.json` anpassen.
 
-![Datenverzeichnis eines Minecraft Servers](/img/2024-03-29-srv-dir.png)
+![Datenverzeichnis eines Minecraft Servers](../assets/img/2024-03-29-srv-dir.png)
 
 Die Datei sieht dann so aus: 
 
-![Inhalt einer Minecraft Server permissions.json](/img/2024-03-29-permissions-json.png)
+![Inhalt einer Minecraft Server permissions.json](../assets/img/2024-03-29-permissions-json.png)
 
 Wenig spektakulär und ohne Geheimnisse kann man die _xuid_ z.B. [hier](https://www.cxkes.me/xbox/xuid) abfragen und bekommt damit folgende Ausgabe für mein Gamertag:
 
-![Graphische Darstellung einer XBOX User ID (xuid)](/img/2024-03-29-xuid.png)
+![Graphische Darstellung einer XBOX User ID (xuid)](../assets/img/2024-03-29-xuid.png)
 
 Im Gegensatz zur Docker-Compose muss hier tatsächlich die _xuid_ (Xbox user ID oder Xbox service ID, Microsoft ist da eher ambivalent was den eigentlich Namen angeht) eingegeben werden. 
 
@@ -163,11 +163,11 @@ Was mich tatsächlich mehrere Stunden an der Xbox gekostet hat, war die Verbindu
 
 Grundsätzlich muss ein Server ausgewählt werden, der selbst eine Liste von Minecraft Servern anbiete. 
 
-![Switch Screennshot - Minecraft Serverauswahl](/img/2024-03-29-hive.jpeg)
+![Switch Screenshot - Minecraft Serverauswahl](../assets/img/2024-03-29-hive.jpeg)
 
 Hier taucht der magische Bildschirm auf, in dem der eigene Server ausgewählt bzw. in die Liste eingetragen werden kann. Einmal eingetragen, kann man den Server dort immer wieder finden.
 
-![Switch Screenshot - Minecraft ServerList ](/img/2024-03-29-serverlist.md)
+![Switch Screenshot - Minecraft ServerList ](../assets/img/2024-03-29-serverlist.md)
 
 Tatsächlich habe ich es ca. 2h mit einem anderen Server versucht, der diese Option nicht anbiete. Den entscheidenden Hinweis habe ich [diesem Video](https://youtu.be/MBj3NuCjyFo?si=mVWZs5u56xK90Ctq) von [Cove Wolf](https://www.youtube.com/@CoveWolf/) erhalten.
 
