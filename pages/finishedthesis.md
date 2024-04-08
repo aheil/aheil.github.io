@@ -12,7 +12,10 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+
 - Sascha Prönecke, _Standard-API für SAP FI-Systeme im Bereich Rechnungslegung im Kontext von Low-Code.Anwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
+
+- Daniel Polak, _Automatische Generierung von Software Release Notes_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2023
 
 - Florian Dörheim, _Konzeption und prototypische Implementierung einer API für die Verteilung von Hypervisoren in einer Cloud-Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
