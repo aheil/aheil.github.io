@@ -12,6 +12,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2023
 
+- Sascha Prönecke, _Standard-API für SAP FI-Systeme im Bereich Rechnungslegung im Kontext von Low-Code.Anwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
+
 - Florian Dörheim, _Konzeption und prototypische Implementierung einer API für die Verteilung von Hypervisoren in einer Cloud-Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
 - Jennifer Zaminer, _Evaluation eines Ausbringungsprozesses von Workflowklassen mit DevOps_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Oberfinanzdirektion Karlsruhe (LZfD)), 2023

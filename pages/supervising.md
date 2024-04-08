@@ -134,5 +134,28 @@ Beispiel: `2019-10-25-DRF-Thesis.pdf`
 - Quellenangaben 
 - Seitennummern (1/42)
 
+## FAQ 
 
+### Q: Wie referenziere ich unternehmensinterne Quellen? 
 
+**A:** Interne Dokumente, wie firmeninterne Betriebsdaten, Wikis, Richtlinien, Protokolle oder Daten aus dem Intranet des Unternehmens, können wie allen anderen Dokumente zitiert werden. Hier sind die Schritte, die Sie befolgen sollten: 
+
+a) Verweis im Text: Geben Sie den Verweis im Text an, ähnlich wie Sie es bei anderen Quellen tun würden. Zum Beispiel: 
+
+> Laut Intranet … (BOSCH, 2020)<sup>1</sup>
+
+b) Fußnote: Fügen Sie eine Fußnote hinzu, um anzugeben, dass die Quelle nicht öffentlich zugänglich ist. Zum Beispiel: 
+
+> <sup>1</sup>Quelle aus dem Intranet (nicht öffentlich zugänglich) von BOSCH.
+
+c) Literaturverzeichnis: Fügen Sie einen Eintrag im Literaturverzeichnis hinzu. Geben Sie z.B. in eckigen Klammern an, um was für eine Art von internen Dokumenten es sich handelt. Zum Beispiel: 
+
+> (BOSCH, 2020) Robert Bosch GmbH, Richtlinie DevOps-Team [Unternehmenswiki], 12. Februar 2022.
+
+Sofern die URL abgedruckt werden darf, können sie diese hier ebenfalls aufnehmen. Klären Sie dies bitte vorher im Unternehmen.
+
+*Hinweis: Es geht letztendlich darum, dass das Dokument aufgefunden werden kann. Bei internen Dokumenten werden voraussichtlich Mitarbeiter des Unternehmens die referenzierten Dokumenten suchen. Gestallten und benennen Sie den Verweis daher so, dass die Referenzen von Personen mit entsprechenden Zugangsberechtigungen zu den jeweiligen Dokument auch gefunden werden können.*
+
+Bitte beachten Sie, dass diese Methode nur anwendbar ist, wenn das interne Dokument einen Link besitzt. Wenn das Dokument keinen Link besitzt, gilt es als ‘persönliche Kommunikation’ und erhält keinen Eintrag im Literaturverzeichnis.
+
+Weitere Informationen: [https://www.scribbr.de/apa-standard/interne-dokumente/](https://www.scribbr.de/apa-standard/interne-dokumente/)

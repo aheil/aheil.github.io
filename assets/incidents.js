@@ -6,8 +6,11 @@ function addIncident(incident, popup) {
   var opacity;
 
   switch (incident.year) {
-    case "2023":
+    case "2024":
       opacity = 1.0;
+      break;
+    case "2023":
+      opacity = 0.8;
       break;
     case "2022":
       opacity = 0.7;
