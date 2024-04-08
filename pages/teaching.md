@@ -15,7 +15,7 @@ Sämtliche Informationen (Lernmaterial, Foliensätze, Skripte und Screencasts) e
 
 Als Professor für Software Engineering unterrichte ich an der Fakultät für Informatik im Studiengang Software Engineering Bachelor folgende Fächer: 
 
-- Betriebssysteme (SEB2)
+- [Betriebssysteme](https://prof.aheil.de/os) (SEB2/AIB2)
 - Software Engineering komplexer Systeme (SEB3)
 - Projektmanagement & Tools (SEB3)
 - DevOps (SEB4)
