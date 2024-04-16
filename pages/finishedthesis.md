@@ -9,9 +9,9 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
-- Fabian Rösner, _Evaluierung und Vergleich von KI-basierten Tools im Software Development Lifecycle_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (XL2 GmbH), 2023
-
 ## 2023
+
+- Fabian Rösner, _Evaluierung und Vergleich von KI-basierten Tools im Software Development Lifecycle_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (XL2 GmbH), 2023
 
 - Sascha Prönecke, _Standard-API für SAP FI-Systeme im Bereich Rechnungslegung im Kontext von Low-Code.Anwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
