@@ -61,3 +61,9 @@ weight: 3
 - Brändle, A., Heil, A., VRDK Robotics Graphical Programing Environment, The Twenty-fifth SGAI International Conference on Innovative Techniques and Applications of Artificial Intelligence, SGAI 2005, Reaching out with Intelligent Robotics Workshop, Peterhouse College, Cambridge, UK, 12. Dezember 2005
 
 ## Fachartikel
+
+## Medienbeiträge 
+
+Heilbronn: Girls Day an der Uni. L-TV, 25.04.2024
+
+[![L-TV - Heilbronn: Girls Day an der Uni](../assets/img/2024-04-24-ltv.jpeg){: width="650" }](https://www.l-tv.de/mediathek/63440/Heilbronn_Girls_Day_an_der_Uni.html)
