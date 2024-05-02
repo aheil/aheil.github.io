@@ -66,5 +66,5 @@ weight: 3
 
 Heilbronn: Girls Day an der Uni. L-TV, 25.04.2024
 
-[![L-TV Mediathek - Heilbronn: Girls Day an der Uni](../assets/img/2024-04-24-ltv.png){: width="650" }](https://www.l-tv.de/mediathek/63440/Heilbronn_Girls_Day_an_der_Uni.html)
+[![L-TV Mediathek - Heilbronn: Girls Day an der Uni](../assets/img/2024-04-25_ltv.png){: width="650" }](https://www.l-tv.de/mediathek/63440/Heilbronn_Girls_Day_an_der_Uni.html)
 Link [L-TV Mediathek - Heilbronn: Girls Day an der Uni](https://www.l-tv.de/mediathek/63440/Heilbronn_Girls_Day_an_der_Uni.html)
