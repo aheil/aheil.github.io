@@ -9,6 +9,10 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
+## 2024
+
+- Alisa Menekse, _Optimizing IT Service Management with Artificial Intelligence: A comparative Study of Incident Categorization between a Large Language Model and SAP Leonardo_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (SAP SE), 2024
+
 ## 2023
 
 - Fabian Rösner, _Evaluierung und Vergleich von KI-basierten Tools im Software Development Lifecycle_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (XL2 GmbH), 2023
