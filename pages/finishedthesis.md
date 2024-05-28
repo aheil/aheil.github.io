@@ -11,11 +11,13 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2024
 
-- Alisa Menekse, _Optimizing IT Service Management with Artificial Intelligence: A comparative Study of Incident Categorization between a Large Language Model and SAP Leonardo_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (SAP SE), 2024
+- Dennis Trefz, _Architektur und Funktionalität des CAN-Buses einer Bediensoftware für ein mikrocontrollerbasiertes Testsystem_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
+
+- Alisa Menekse, _Optimizing IT Service Management with Artificial Intelligence: A comparative Study of Incident Categorization between a Large Language Model and SAP Leonardo_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SAP SE), 2024
 
 ## 2023
 
-- Fabian Rösner, _Evaluierung und Vergleich von KI-basierten Tools im Software Development Lifecycle_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (XL2 GmbH), 2023
+- Fabian Rösner, _Evaluierung und Vergleich von KI-basierten Tools im Software Development Lifecycle_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (XL2 GmbH), 2023
 
 - Sascha Prönecke, _Standard-API für SAP FI-Systeme im Bereich Rechnungslegung im Kontext von Low-Code.Anwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz IT KG), 2023
 
