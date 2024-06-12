@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2024
 
+- Nadine Schollmeyer, _Messung und Auswertung der über die Anwendungslatenz hinausgehenden Reaktionszeit von cloudbasierten Anwendungen in unterschiedlichen Lokationen als Grundlage für Deployment-Entscheidungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SAP SE), 2024 
+
 - Dennis Trefz, _Architektur und Funktionalität des CAN-Buses einer Bediensoftware für ein mikrocontrollerbasiertes Testsystem_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
 
 - Alisa Menekse, _Optimizing IT Service Management with Artificial Intelligence: A comparative Study of Incident Categorization between a Large Language Model and SAP Leonardo_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SAP SE), 2024
