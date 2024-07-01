@@ -68,13 +68,17 @@ Im Kick-Off sollten Sie in einer kurzen Präsentation Ihr Thema vorstellen und g
 
 Nach der Kick-Off Veranstaltung, also sobald wir (Sie als auch Ihre Betreuer) ein gemeinsames Bild von Ihrer Arbeit haben und der Kontext, Problem, Lösungsansatz für Sie klar sind bzw. sich aus dem Visionsdokument keine offenen Fragen mehr für Sie ergeben, wird die Arbeit angemeldet. Ab diesem Moment läuft die Zeit. Ein Rücktritt von der Arbeit ist ab diesem Moment nicht mehr möglich. 
 
-## Kolloquium
+## Kolloquium (SEB/AIB)
 
-Bitte teilen Sie mir den Termin des Kolloquiums mit. Es ist empfehlenswert, dass ich den Termin wahrnehmen kann. Meist haben Sie die Möglichkeit aus zwei Terminen zu wählen. Es empfiehlt sich in der Regel den späteren Termin zu wählen, da Sie hier in Ihrem Thema bereits fortgeschrittener sind.
+Bitte teilen Sie mir den Termin des Kolloquiums (Studiengänge SEB und AIB) mit. Es ist empfehlenswert, dass ich den Termin wahrnehmen kann. Meist haben Sie die Möglichkeit aus zwei Terminen zu wählen. Es empfiehlt sich in der Regel den späteren Termin zu wählen, da Sie hier in Ihrem Thema bereits fortgeschrittener sind.
 
 Bitte senden Sie mir spätestens 2-3 Tage vor dem Kolloquium Ihre Präsentation zu, so dass ich Ihnen hierzu bei Bedarf noch Feedback geben kann. 
 
-## Abschlusspräsentation
+Das Kolloqioum ist eine eigenständige Prüfung, die durch eine/n andere/n Professor:in organisiert wird. Sie müssen sich hierfür zur Prüfung anmelden. Erst durch die Anmeldung zur Prüfung werden Sie zur Vorbesprechung eingeladen. Kümmern Sie sich bitte frühzeitig um die Anmeldung.
+
+Einladung zum Kolloquium: Das Kolloquium ist "Ihr Termin", zu dem sie mich bitte einladen, sobald Sie den Termin kennen. Diese Einladung darf formlos per E-Mail sein, sollte aber mindestens Datum, Uhrzeit und die Örtlichkeit enthalten. Bei einer kurzfristigen Umstellung der Termine informieren Sie mich bitte. Ich versuche es immer möglich zu machen, bei Ihrer Präsentation dabei zu sein, wenn Sie mich entsprechend einladen.
+
+## Abschlusspräsentation (optional)
 
 Aus meiner Erfahrung hat sich eine Abschlusspräsentation im Unternehmen bewährt, in der Sie im Betrieb Ihres betreuenden Unternehmens die Ergebnisse der Arbeit vorstellen.
 
@@ -82,7 +86,7 @@ Oftmals ist eine Kombination aus Präsentation der Dokumentation (Abschlussarbei
 
 Für die Organisation dieser Veranstaltung sind Sie verantwortlich. Teilnehmen sollten ihr/e betrieblicher Betreuer/in, weitere Stakeholder (z.B. Abteilungsleiter/in) und weitere interessierte Kollegen und Kolleginnen im Unternehmen. Oftmals interessieren sich auch Studierenden, die ihren Abschluss in den vorausgehenden Jahren gemacht haben und nun im Unternehmen arbeiten für Ihre Präsentation.
 
-Wichtiger Hinweis: Analog zum Kick-Off führen wir den Termin online durch. 
+Wichtiger Hinweis: Analog zum Kick-Off führen wir den Termin wenn möglich online durch. Gerne besuche ich Sie auch im Betrieb für die Abschlusspräsentation, wenn mit dies möglich ist.
 
 ## Thesis / Ausarbeitung
 
