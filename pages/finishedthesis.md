@@ -11,6 +11,10 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2024
 
+- Martin Marsal, _Kann HTMX die User Experience für Entwickler und Enduser verbessern?_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2024
+
+- Dennis Schwartz, _Evaluation der Effizienz und Effektivität von ChatGPT-4 in der Softwareentwicklung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2024
+
 - Nadine Schollmeyer, _Messung und Auswertung der über die Anwendungslatenz hinausgehenden Reaktionszeit von cloudbasierten Anwendungen in unterschiedlichen Lokationen als Grundlage für Deployment-Entscheidungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (SAP SE), 2024 
 
 - Dennis Trefz, _Architektur und Funktionalität des CAN-Buses einer Bediensoftware für ein mikrocontrollerbasiertes Testsystem_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
