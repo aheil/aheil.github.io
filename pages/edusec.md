@@ -1,5 +1,5 @@
 ---
-layout: leaflet
+layout: page
 title: Sicherheitsvorfälle an Hochschulen
 permalink: /edusec/
 weight: 6
