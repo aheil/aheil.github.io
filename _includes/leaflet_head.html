@@ -1,5 +1,7 @@
 <head>
 
+  <!-- TODO: make generic using the head file and the page file as base, this was a quick hackory -->
+
   {% assign title = page.title | default: site.title | escape %}
   {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
   {% assign image = page.image | default: site.author.image %}
@@ -16,6 +18,9 @@
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
   <meta property="og:image" content="{{ image }}">
+
+  <!-- Fediverse Creator -->
+  <meta name="fediverse:creator" content="{{ site.fediverse_creator }}">
 
   <title>{{ title }}</title>
   <meta name="description" content="{{ description }}">
