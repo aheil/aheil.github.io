@@ -17,9 +17,11 @@ Neben betrieblichen Themen gibt es auch Aufgabenstellungen, die sich aus meinen 
 
 ## LAKS - Lern- und Arbeitskreis Studierende
 
-Alle Student:innen, welche von mir betreut werden können sich in regelmäßigen Treffen untereinander als auch mit mir im Rahmen des Lern- und Arbeitskreis Studierende (LAKS) in Bezug auf formale und Inhaltliche Themen in hinsichtlich der Abschlussarbeiten austauschen. 
+Alle Student:innen, welche von mir betreut werden, können sich in regelmäßigen Treffen untereinander als auch mit mir im Rahmen des Lern- und Arbeitskreis Studierende (LAKS) in Bezug auf formale und Inhaltliche Themen in hinsichtlich der Abschlussarbeiten austauschen. 
 
-{% include elements/button.html link="https://ilias.hs-heilbronn.de/goto.php?target=crs_300248&client_id=iliashhn" text="ILIAS Raum"  size="sm" %}
+Hierzu gibt es eine wöchentliche offene Sprechstunde für alle Student:innen, die bei mir Ihre Arbeit absolvieren. Für den Austausch steht ein Microsoft Teams Raum bereit:
+
+{% include elements/button.html link="https://teams.microsoft.com/l/team/19%3AauO4LRDKT8KG4tTbE73kW_gAGS6iA0FAX6g4q6LvQwY1%40thread.tacv2/conversations?groupId=42e1ca41-1b5e-4934-93aa-8e3e51e08a31&tenantId=fe73884d-8d6f-4d22-94ac-b1d52fd5495f" text="ILIAS Raum"  size="sm" %}
 
 ## Vision und Visionsdokument
 
@@ -74,7 +76,7 @@ Bitte teilen Sie mir den Termin des Kolloquiums (Studiengänge SEB und AIB) mit.
 
 Bitte senden Sie mir spätestens 2-3 Tage vor dem Kolloquium Ihre Präsentation zu, so dass ich Ihnen hierzu bei Bedarf noch Feedback geben kann. 
 
-Das Kolloqioum ist eine eigenständige Prüfung, die durch eine/n andere/n Professor:in organisiert wird. Sie müssen sich hierfür zur Prüfung anmelden. Erst durch die Anmeldung zur Prüfung werden Sie zur Vorbesprechung eingeladen. Kümmern Sie sich bitte frühzeitig um die Anmeldung.
+Das Kolloquium ist eine eigenständige Prüfung, die durch eine/n andere/n Professor:in organisiert wird. Sie müssen sich hierfür zur Prüfung anmelden. Erst durch die Anmeldung zur Prüfung werden Sie zur Vorbesprechung eingeladen. Kümmern Sie sich bitte frühzeitig um die Anmeldung.
 
 Einladung zum Kolloquium: Das Kolloquium ist "Ihr Termin", zu dem sie mich bitte einladen, sobald Sie den Termin kennen. Diese Einladung darf formlos per E-Mail sein, sollte aber mindestens Datum, Uhrzeit und die Örtlichkeit enthalten. Bei einer kurzfristigen Umstellung der Termine informieren Sie mich bitte. Ich versuche es immer möglich zu machen, bei Ihrer Präsentation dabei zu sein, wenn Sie mich entsprechend einladen.
 
