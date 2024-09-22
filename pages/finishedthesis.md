@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2024
 
+- Dominik Kubath, Alina Kasianova, _Entwicklung einer lernunterstützenden App: Einfluss auf die Lernleistung und Routinen_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2024
+
 - The Minh Nguyen, _State of the Art Entwicklung in der Automotive Industrie mit Fokus V-Modell_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
 
 - Yani Vutov, _Konzept und Design einer plattformunabhängigen, interkativen und bedinerfreundlichen Overfläche für das µLC Test System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
