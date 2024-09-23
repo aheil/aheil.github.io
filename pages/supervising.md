@@ -165,3 +165,17 @@ Sofern die URL abgedruckt werden darf, können sie diese hier ebenfalls aufnehme
 Bitte beachten Sie, dass diese Methode nur anwendbar ist, wenn das interne Dokument einen Link besitzt. Wenn das Dokument keinen Link besitzt, gilt es als ‘persönliche Kommunikation’ und erhält keinen Eintrag im Literaturverzeichnis.
 
 Weitere Informationen: [https://www.scribbr.de/apa-standard/interne-dokumente/](https://www.scribbr.de/apa-standard/interne-dokumente/)
+
+### Q: Wann nutze ich einen Bindestrich, wann nicht?
+
+**A:** Rein deutsche Begriffe werden zusammengeschrieben, englische auseinander, eine Mischung aus beiden immer mit Bindestrich. Ausgenommen sind Eigenbegriffe oder wenn sich eine bestimmte Schreibweise eingebürgert hat.
+
+Beispiel:
+
+- D-D:   Anwendungsentwicklung
+- E-D:   Software-Architekt
+- D-E:   Entwicklungs-Review
+- D-E-E: Projekt-Management-Review
+- E-E-D: Project-Management-Vorgehen
+- E-E:   Software Development
+
