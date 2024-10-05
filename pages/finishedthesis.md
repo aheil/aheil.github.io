@@ -11,6 +11,11 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2024
 
+- Daniel von Gerichten, _Erstellung eines Konzeptes zur korrekten Installation von kundenspezifischen Erweiterungen mehrerer Softwareprodukte mit einem neuen hybriden Paketformat_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2024
+
+- Julian Stadler, _Qualitätsmanagement in der Cloudentwicklung: Eine umfassende Analyse von Metriken und die Entwicklung eines Dashboards zur kontinuierlichen Verbesserung von Softwareentwicklungsprozessen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Testo SE & Co. KGaA
+), 2024
+
 - Dominik Kubath, Alina Kasianova, _Entwicklung einer lernunterstützenden App: Einfluss auf die Lernleistung und Routinen_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2024
 
 - The Minh Nguyen, _State of the Art Entwicklung in der Automotive Industrie mit Fokus V-Modell_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
