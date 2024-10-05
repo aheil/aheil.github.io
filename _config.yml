@@ -10,6 +10,9 @@ og_url              : "https://aheil.de"
 og_image            : aheil_square.jpg
 og_description      : Professor by day, Nerd and Geek by night
 
+profile_image_light: aheil_light.jpg	
+profile_image_dark : aheil_dark.jpg
+
 fediverse_creator   : "@aheil@chaos.social"
 
 ### Plugins ###
