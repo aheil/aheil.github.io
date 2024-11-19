@@ -10,6 +10,7 @@ weight: 6
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
 ## 2024
+- Jonathan Bittighofer, _Evaluierung und prototypische Implementierung eines Full-Stack-Frameworks anhand einer klassischen Web-Anwendung_,  Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Objektkultur Software GmbH), 2024
 
 - Daniel von Gerichten, _Erstellung eines Konzeptes zur korrekten Installation von kundenspezifischen Erweiterungen mehrerer Softwareprodukte mit einem neuen hybriden Paketformat_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2024
 
