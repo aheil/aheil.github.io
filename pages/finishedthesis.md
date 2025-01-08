@@ -9,13 +9,17 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
+## 2025
+
 ## 2024
+
+- Kovacs Steven, _Integrität- und Lebenszyklusmanagement von Softwareartefakten zur Qualitätssteigerung im Softwareentwicklungsprozess_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (iss innovative software services GmbH), 2025
+
 - Jonathan Bittighofer, _Evaluierung und prototypische Implementierung eines Full-Stack-Frameworks anhand einer klassischen Web-Anwendung_,  Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Objektkultur Software GmbH), 2024
 
 - Daniel von Gerichten, _Erstellung eines Konzeptes zur korrekten Installation von kundenspezifischen Erweiterungen mehrerer Softwareprodukte mit einem neuen hybriden Paketformat_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SEW-EURODRIVE GmbH & Co KG), 2024
 
-- Julian Stadler, _Qualitätsmanagement in der Cloudentwicklung: Eine umfassende Analyse von Metriken und die Entwicklung eines Dashboards zur kontinuierlichen Verbesserung von Softwareentwicklungsprozessen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Testo SE & Co. KGaA
-), 2024
+- Julian Stadler, _Qualitätsmanagement in der Cloudentwicklung: Eine umfassende Analyse von Metriken und die Entwicklung eines Dashboards zur kontinuierlichen Verbesserung von Softwareentwicklungsprozessen_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Testo SE & Co. KGaA), 2024
 
 - Dominik Kubath, Alina Kasianova, _Entwicklung einer lernunterstützenden App: Einfluss auf die Lernleistung und Routinen_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2024
 
