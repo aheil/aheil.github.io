@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Krupaben Panchal, _Machinbe Learning-Driven Energy Management_, Master Thesis (M.Sc.), Hochschule Heilbronn (ITK Engineering GmbH), 2025
+
 - Dennis Schies, _A Graph-Based Tool for Procedural Content generation Pipelines in Unity_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
 
 - Kovacs Steven, _Integrität- und Lebenszyklusmanagement von Softwareartefakten zur Qualitätssteigerung im Softwareentwicklungsprozess_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (iss innovative software services GmbH), 2025
