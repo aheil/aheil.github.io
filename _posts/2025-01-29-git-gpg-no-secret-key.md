@@ -1,8 +1,10 @@
 ---
 title: No Secret Key
-tags: ["mindcraft"]
+tags: Git Windows
 description: "Kein Secret Key bei Git gelöst" 
 ---
+
+![https://img.shields.io/badge/no-ai_content-green](https://img.shields.io/badge/no-ai_content-green)
 
 ## tl;dr 
 
