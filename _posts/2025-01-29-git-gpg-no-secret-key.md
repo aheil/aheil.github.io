@@ -80,11 +80,7 @@ git config --global gpg.program "C:\Program Files (x86)\GnuPG\bin\gpg.exe"
 ``` 
 kann dies behoben werden und beim nächsten Check-In sollte nun nach dem Passwort gefragt werden. 
 
-<center>
-
 ![OpenPGP Passwort Dialog](../assets/img/2025-01-29_openpgp.png)
-
-</center>
 
 Damit alles funktioniert ist der Public Key noch auf dem Zielsystem zu hinterlegen. 
 
