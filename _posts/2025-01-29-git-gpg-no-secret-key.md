@@ -4,9 +4,7 @@ tags: Git Windows
 description: "Kein Secret Key bei Git gelöst" 
 ---
 
-<p align="left>
 ![https://img.shields.io/badge/no-ai_content-green](https://img.shields.io/badge/no-ai_content-green)
-</p>
 
 ## tl;dr 
 
