@@ -33,6 +33,9 @@ nav_exclude:                                            # The following paths ar
   - pages/grading.md
   - pages/edusec.md
   - pages/edufaq.md
+  - assets/eidesstatliche_erklaerung.md
+  - assets/statutory_declaration.md
+
 
 
 ### Author Info ###

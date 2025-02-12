@@ -179,3 +179,11 @@ Beispiel:
 - E-E-D: Project-Management-Vorgehen
 - E-E:   Software Development
 
+### Q: Was ist  "Eidesstantliche Erklärung"?
+
+**A:** Eine eidesstattliche Erklärung in einer Bachelorarbeit ist eine formelle Erklärung, in der der Verfasser der Arbeit versichert, dass er die Arbeit selbstständig und ohne unerlaubte Hilfe angefertigt hat. Diese Erklärung dient dazu, die Eigenständigkeit und Originalität der Arbeit zu bestätigen und Plagiate zu verhindern. Sie wird in der Regel am Ende der Arbeit eingefügt und vom Verfasser unterschrieben
+
+AFAIK gibt es keine Vorlage der HHN für die eidestatlichen Erklärung, als Vorlage oder Anregung können folgende Beispieltexte verwendet werden:
+
+- [Text für eidesstatliche Erklärung (de)](/assets/eidesstatliche_erklaerung.md)
+- [Text für eidesstatliche Erklärung (en)](/assets/statutory_declaration.md)
