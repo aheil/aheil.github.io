@@ -38,7 +38,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Andreas Heil
-  image             : aheil.jpg
+  light_mode_image  : aheil_light.jpg
+  dark_mode_image   : aheil_dark.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : info@aheil.de
