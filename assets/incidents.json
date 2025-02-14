@@ -279,6 +279,14 @@
       "link": "https://www.hhu.de/news-einzelansicht/hackerangriff-auf-it-systeme-der-hhu",
       "date": "16.04.2024",
       "year": "2024"
+    },
+    {
+      "name": "https://www.unibw.de/home",
+      "lat": "48.0804525950446",
+      "long": "11.638202455347919",
+      "link": "https://www.golem.de/news/muenchen-cyberangriff-trifft-universitaet-der-bundeswehr-2502-193337.html",
+      "date": "23.01.2025",
+      "year": "2025"
     }
   ]
 }
