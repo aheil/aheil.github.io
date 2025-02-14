@@ -281,6 +281,22 @@
       "year": "2024"
     },
     {
+      "name": "Universitätsmedizin Mainz",
+      "lat": "49.99269380708787",
+      "long": "8.259827223526937",
+      "link": "https://www.swr.de/swraktuell/rheinland-pfalz/mainz/daten-der-unversitaetsmedizin-mainz-geklaut-100.html",
+      "date": "02.05.2024",
+      "year": "2024"
+    },
+    {
+      "name": "Frankfurter University of Applied Sciences (UAS) ",
+      "lat": "50.13065045668273",
+      "long": "8.692520927230643",
+      "link": "https://www.heise.de/news/Cyberangriff-auf-Frankfurter-University-of-Applied-Sciences-9793380.html?wt_mc=sm.red.ho.mastodon.mastodon.md_beitraege.md_beitraege&utm_source=mastodon",
+      "date": "06.07.2024",
+      "year": "2024"
+    },
+    {
       "name": "Universität der Bundeswehr München",
       "lat": "48.0804525950446",
       "long": "11.638202455347919",
