@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Jannik Faas, _Automotive Software Component Testing and Validation using a Product-Centric Continuous Testing Approach_, Hochschule Heilbronn (ETAS GmbH), 2025
+
 - Krupaben Panchal, _Machinbe Learning-Driven Energy Management_, Master Thesis (M.Sc.), Hochschule Heilbronn (ITK Engineering GmbH), 2025
 
 - Dennis Schies, _A Graph-Based Tool for Procedural Content generation Pipelines in Unity_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
