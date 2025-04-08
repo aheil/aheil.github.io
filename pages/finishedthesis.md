@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Nurullah Henden, _Selbstständige und gesicherte Administration von marktspezifischen Konfigurationsdaten_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz Tech Innovation GmbH), 2025
+
 - Nadine Köhler, _Proaktive Abwehr von Cyberangriffen durch einne KI-basierten Security Chatbot_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (1&1 Telecommunication SE), 2025
 
 - Jannik Faas, _Automotive Software Component Testing and Validation using a Product-Centric Continuous Testing Approach_, Hochschule Heilbronn (ETAS GmbH), 2025
