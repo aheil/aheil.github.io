@@ -15,17 +15,13 @@ Sämtliche Informationen (Lernmaterial, Foliensätze, Skripte und Screencasts) e
 
 Als Professor für Software Engineering unterrichte ich an der Fakultät für Informatik im Studiengang Software Engineering Bachelor folgende Fächer: 
 
+- Interaktive Programme (SEB1)
 - [Betriebssysteme](https://prof.aheil.de/os) (SEB2/AIB2)
 - [Software Engineering komplexer Systeme](https://prof.aheil.de/seks) (SEB3)
 - [Projektmanagement & Tools](https://prof.aheil.de/pmt) (SEB3)
 - [DevOps](https://prof.aheil.de/devops) (SEB4)
-- Labor für Software-Projekte und Projekt Skills (SEB4)
 
-Im Studiengang Medizinische Informatik Bachelor unterrichte ich die Fächer: 
-
-- Software Labor 2 (MIB3)
-
-Und im Master-Studiengang Software Engineering (SEM) das Fach 
+Im Master-Studiengang Software Engineering (SEM) das Fach 
 
 - Advanced Software Architecture
 
@@ -60,7 +56,7 @@ Gerne betreue ich auch Arbeiten, die außerhalb meines eigentlichen Forschungsge
 Sollten Sie als Betreuer einer Unternehmung spannende Themen für unserer Student:innen anbieten wollen, die in meinen Kompetenzen liegt, kommen Sie gerne auf mich zu. Gerne übernehme ich die Betreuung und schreibe gemeinsam betreute Arbeiten für unserer Student:innen aus.
 
 
-### MIB GPT
+### MIB GPT (deprecated)
 
 Als Experiment steht ein Experten GPT (Generative Pretrained Transformer) für den Studiengang Medizinische Informatik Bachelor zur Verfügung. Der MIB GPT ist mit zahlreichen Informationen über den Studiengang Medizinische Informatik Bachelor trainiert und wird fortwährend verfeinert.
 
