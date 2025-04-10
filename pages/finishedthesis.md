@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Dario Pfahl, _CinePi-Filmkamera auf Basis der Godot Game Engine_, Bachelor Thesis (B.Sc.),Hochschule Heilbronn, 2025
+
 - Nurullah Henden, _Selbstständige und gesicherte Administration von marktspezifischen Konfigurationsdaten_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz Tech Innovation GmbH), 2025
 
 - Nadine Köhler, _Proaktive Abwehr von Cyberangriffen durch einne KI-basierten Security Chatbot_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (1&1 Telecommunication SE), 2025
