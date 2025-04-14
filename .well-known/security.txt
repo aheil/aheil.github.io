@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+# aheil.de RFC 9116 security.txt
+
+Canonical: https://aheil.de/.well-known/security.txt
+Expires: 2028-12-31T23:59:00+01:00
+
+# Please always try to contact us via email
+Contact: mailto:security@aheil.de
+
+# We can offer a proper response in the following languages:
+Preferred-Languages: nl, en
+
+# This is the PGP public key that we use to sign our security.txt.
+# Do *not* use it to send encrypted mails to us.
+Encryption: https://aheil.de/.well-known/pgp-key.txt
+
+#
+# Thank you!
+#
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQMzvPPmJ/ra2w4eKlIo9cTEK+ntQUCZ/0kwQAKCRBIo9cTEK+n
+tcsdAP9LDtmc9bImR6TJkycNia7dZ5T+4XMDKTkbf0oqfSt75AD/U3cmG0Ls8Mwe
+5fxqwWMl9bR7oPxLNzetUnFGyhcVKQY=
+=eFvU
+-----END PGP SIGNATURE-----
