@@ -11,7 +11,9 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
-- Dario Pfahl, _CinePi-Filmkamera auf Basis der Godot Game Engine_, Bachelor Thesis (B.Sc.),Hochschule Heilbronn, 2025
+- Jason Herrmann, _Konzeption und Implementierung einer flexiblen Importschnitstelle für ECU-Spezifikationen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
+
+- Dario Pfahl, _CinePi-Filmkamera auf Basis der Godot Game Engine_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
 
 - Nurullah Henden, _Selbstständige und gesicherte Administration von marktspezifischen Konfigurationsdaten_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz Tech Innovation GmbH), 2025
 
