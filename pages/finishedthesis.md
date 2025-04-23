@@ -13,17 +13,17 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Florian Dieterich, _Migration von Web-Applikationen in die  Cloud unter Einsatz von Kubernetes zur Verbesserung der Skalierbarkeit, Performanz und Kosteneffizienz", Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch Manufacturing Solutions GmbH), 2025
 
-- Jason Herrmann, _Konzeption und Implementierung einer flexiblen Importschnitstelle für ECU-Spezifikationen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
+- Jason Herrmann, _Konzeption und Implementierung einer flexiblen Importschnittstelle für ECU-Spezifikationen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
 
 - Dario Pfahl, _CinePi-Filmkamera auf Basis der Godot Game Engine_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
 
 - Nurullah Henden, _Selbstständige und gesicherte Administration von marktspezifischen Konfigurationsdaten_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz Tech Innovation GmbH), 2025
 
-- Nadine Köhler, _Proaktive Abwehr von Cyberangriffen durch einne KI-basierten Security Chatbot_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (1&1 Telecommunication SE), 2025
+- Nadine Köhler, _Proaktive Abwehr von Cyberangriffen durch eine KI-basierten Security Chatbot_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (1&1 Telecommunication SE), 2025
 
 - Jannik Faas, _Automotive Software Component Testing and Validation using a Product-Centric Continuous Testing Approach_, Hochschule Heilbronn (ETAS GmbH), 2025
 
-- Krupaben Panchal, _Machinbe Learning-Driven Energy Management_, Master Thesis (M.Sc.), Hochschule Heilbronn (ITK Engineering GmbH), 2025
+- Krupaben Panchal, _Machine Learning-Driven Energy Management_, Master Thesis (M.Sc.), Hochschule Heilbronn (ITK Engineering GmbH), 2025
 
 - Dennis Schies, _A Graph-Based Tool for Procedural Content generation Pipelines in Unity_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
 
