@@ -41,7 +41,7 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - The Minh Nguyen, _State of the Art Entwicklung in der Automotive Industrie mit Fokus V-Modell_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
 
-- Yani Vutov, _Konzept und Design einer plattformunabhängigen, interkativen und bedinerfreundlichen Overfläche für das µLC Test System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
+- Yani Vutov, _Konzept und Design einer plattformunabhängigen, interkativen und bedinerfreundlichen Oberfläche für das µLC Test System_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch GmbH), 2024
 
 - Martin Marsal, _Kann HTMX die User Experience für Entwickler und Enduser verbessern?_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2024
 
