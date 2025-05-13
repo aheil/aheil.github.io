@@ -59,3 +59,4 @@ Danach den Befehl nochmals ausführen und nabn sollte einen ähnlichen Screen se
 
 ## Fazit 
 
+Sobald einmal alles (korrekt) installiert ist, funktioniert es wunderbar. Die virtuellen Disks lassen sich bei mir um ca. 10% komprimieren. Das ist nicht viel, schaffen aber Luft, dass man an weiteren Lösungen arbeiten kann, wenn einmal der Speicher eng wird.
