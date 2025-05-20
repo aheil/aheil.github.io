@@ -11,7 +11,9 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
-- Florian Dieterich, _Migration von Web-Applikationen in die  Cloud unter Einsatz von Kubernetes zur Verbesserung der Skalierbarkeit, Performanz und Kosteneffizienz", Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch Manufacturing Solutions GmbH), 2025
+- Gabriel Schmidlin Kitzig, _Qualitätsverbesserung durch klassisches Requirements Engineering in der agilen Entwicklung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Dürr Group Services GmbH), 2025
+
+- Florian Dieterich, _Migration von Web-Applikationen in die  Cloud unter Einsatz von Kubernetes zur Verbesserung der Skalierbarkeit, Performanz und Kosteneffizienz_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Robert Bosch Manufacturing Solutions GmbH), 2025
 
 - Jason Herrmann, _Konzeption und Implementierung einer flexiblen Importschnittstelle für ECU-Spezifikationen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
 
