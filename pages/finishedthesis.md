@@ -11,7 +11,7 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
-- Chantal Happi, _Development and Implementation of Metrics for Evaluating the Software Development Process_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (Mercedes-Benz AG), 2025
+- Chantal Happi, _Development and Implementation of Metrics for Evaluating the Software Development Process_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (Mercedes-Benz AG/Mercedes-Benz Tech Innovation GmbH), 2025
 
 - Luis Heilmann, _Entwicklung eines KI-Systems für die Unterstützung von Entwicklern in Valuemation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Bechtle AG), 2025
 
