@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Chantal Happi, _Development and Implementation of Metrics for Evaluating the Software Development Process_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (Mercedes-Benz AG), 2025
+
 - Luis Heilmann, _Entwicklung eines KI-Systems für die Unterstützung von Entwicklern in Valuemation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Bechtle AG), 2025
 
 - Gabriel Schmidlin Kitzig, _Qualitätsverbesserung durch klassisches Requirements Engineering in der agilen Entwicklung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Dürr Group Services GmbH), 2025
