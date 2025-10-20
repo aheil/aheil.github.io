@@ -11,6 +11,17 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Oliver Wells, _Erstellung eines Werkzeugs zur automatisierten Bewertung von Free and Open Source
+Sofware in Bezug auf dessen Vertrauenswürdigkeit_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2025
+
+- Niklas R. Krauth, Lukas Melcher, _MemoryMaster – KI-gestützte Lernplattform für Spaced Repetition und interaktive Karteikarten_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2025 
+
+- Mathis Immig, _Utilising TypeScript as a Business Logic Extension Language with WebAssembly: A Comparative Study of Compiler Toolchains_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2025
+
+- Tim Wolf, _Entwurf und Prototypisierung einer Wissensmanagement-Plattform mit einer generativen KI im Cybersecurity-Umfeld_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (Siemens AG), 2025
+
+- Julian Sammet, _KBLaM vs. RAG: Ein qualitativer Vergleich_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (hiqs GmbH), 2025
+
 - Chantal Happi, _Development and Implementation of Metrics for Evaluating the Software Development Process_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (Mercedes-Benz AG/Mercedes-Benz Tech Innovation GmbH), 2025
 
 - Luis Heilmann, _Entwicklung eines KI-Systems für die Unterstützung von Entwicklern in Valuemation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Bechtle AG), 2025
