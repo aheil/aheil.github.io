@@ -11,8 +11,9 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
-- Oliver Wells, _Erstellung eines Werkzeugs zur automatisierten Bewertung von Free and Open Source
-Sofware in Bezug auf dessen Vertrauenswürdigkeit_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2025
+- Benjamin Dackermann, _Entwicklung eines konfigurierbaren Large Language Model Proxy für Prüfungssituationen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
+
+- Oliver Wells, _Erstellung eines Werkzeugs zur automatisierten Bewertung von Free and Open Source Sofware in Bezug auf dessen Vertrauenswürdigkeit_, Bachelor Thesis (B.Sc.), Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe (SAP SE), 2025
 
 - Niklas R. Krauth, Lukas Melcher, _MemoryMaster – KI-gestützte Lernplattform für Spaced Repetition und interaktive Karteikarten_, Studienarbeit, Duale Hochschule Baden-Württemberg (DHBW) Karlsruhe, 2025 
 
