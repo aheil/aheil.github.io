@@ -303,6 +303,14 @@
       "link": "https://www.golem.de/news/muenchen-cyberangriff-trifft-universitaet-der-bundeswehr-2502-193337.html",
       "date": "23.01.2025",
       "year": "2025"
+    },
+    { 
+      "name": "Universität Heidelberg",
+      "lat": "49.41067363165701",
+      "long": "8.706560886917547",
+      "link": "https://www.urz.uni-heidelberg.de/de/vorsichtsmassnahmen",
+      "date": "19.01.2025",
+      "year": "2025"
     }
   ]
 }
