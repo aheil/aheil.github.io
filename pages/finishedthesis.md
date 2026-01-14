@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2025
 
+- Marice Drautz, _Automatisierte Sicherstellung von Performance-Anforderungen in einer Microservice-basierten Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
+
 - Dominik Sanzenbacher, _Erarbeitung und Implementierung einer Datenverschlüsselung unter Verwendung eines TPMs_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Fresenius Medical Care Deutschland AG), 2025
 
 - Benjamin Dackermann, _Entwicklung eines konfigurierbaren Large Language Model Proxy für Prüfungssituationen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn, 2025
