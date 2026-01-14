@@ -9,7 +9,11 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
+#ä#
+
 ## 2025
+
+- Johannes Kranich, _Implementierung eines Systems zur Überwachung der Cloud-Deployments einer Web-Applikation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz Digits KG), 2025
 
 - Marice Drautz, _Automatisierte Sicherstellung von Performance-Anforderungen in einer Microservice-basierten Umgebung_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Vector Informatik GmbH), 2025
 
