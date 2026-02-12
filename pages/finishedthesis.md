@@ -9,7 +9,9 @@ weight: 6
 
 Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen Abschlussarbeiten aufgeführt. 
 
-#ä#
+## 2026
+
+- Florian Wirt, _Konzeption, Implementierung und Bewertung eines End-to-End-Testframeworks mit Cypress für moderne Webanwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz AG), 2026
 
 ## 2025
 
