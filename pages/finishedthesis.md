@@ -11,13 +11,15 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2026
 
-- Annamaria Nieddu, _Absicherung eines Kubernetes Clusters in Multi-Tenant-Umgebungen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (STACKIT GmbH & Co. KG ), 2026
-
-- Chistopher Stewen, _Der Weg aus dem Monolithen: Technische Analyse einer Migration zu Function-as-a-Service_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Univents GmbH), 2026
+## 2025
 
 - Florian Wirt, _Konzeption, Implementierung und Bewertung eines End-to-End-Testframeworks mit Cypress für moderne Webanwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz AG), 2026
 
-## 2025
+- Chistopher Stewen, _Der Weg aus dem Monolithen: Technische Analyse einer Migration zu Function-as-a-Service_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Univents GmbH), 2025
+
+- Annamaria Nieddu, _Absicherung eines Kubernetes Clusters in Multi-Tenant-Umgebungen, Bachelor Thesis (B.Sc.), Hochschule Heilbronn/Universität Heidelberg (STACKIT GmbH & Co. KG ), 2025
+
+- Abhishek J. Dhekane, _Building an MCP-Based Asset Library for Enhancing Software Development Workflows_, Master Thesis (M.Sc.), Hochschule Heilbronn (XL2 GmbH), 2025
 
 - Johannes Kranich, _Implementierung eines Systems zur Überwachung der Cloud-Deployments einer Web-Applikation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Schwarz Digits KG), 2025
 
