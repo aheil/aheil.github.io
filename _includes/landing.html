@@ -5,12 +5,10 @@
     <div id="container" class="my-2">
       <div id="dummy"></div>
       <div id="element">
-        <picture>
-          <source srcset="{{ site.author.dark_mode_image }}" media="(prefers-color-scheme: dark)"
-            class="circle-image dark-mode-image wow animated zoomIn" data-wow-delay=".1s">
-          <img src="{{ site.author.light_mode_image }}" alt="{{ site.title }}"
-            class="circle-image light-mode-image wow animated zoomIn" data-wow-delay=".1s">
-        </picture>
+        <img src="{{ site.author.light_mode_image }}" alt="{{ site.title }}"
+          class="circle-image light-mode-image wow animated zoomIn" data-wow-delay=".1s">
+        <img src="{{ site.author.dark_mode_image }}" alt="{{ site.title }}"
+          class="circle-image dark-mode-image wow animated zoomIn" data-wow-delay=".1s">
       </div>
     </div>
 
@@ -20,6 +18,15 @@
 </div>
 
 <style>
+  /* Default before JS sets data-theme */
+  .light-mode-image {
+    display: block;
+  }
+
+  .dark-mode-image {
+    display: none;
+  }
+
   /* Hide dark mode image when light theme is active */
   :root[data-theme="light"] .dark-mode-image {
     display: none;
