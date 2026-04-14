@@ -1,0 +1,58 @@
+<div class="card-columns m-3 mt-5">
+
+  <!-- Remote Lecture -->
+  {% for remote_lecture in page.remote_lectures %}
+
+  {%- for repo in site.github.public_repositories -%}
+
+  {%- if remote_lecture == repo.name -%}
+
+  {%- assign lecture = repo -%}
+  {%- assign words = lecture.name | split: '-' -%}
+
+  {%- capture titlecase -%}
+  {%- for word in words -%}
+  {{ word | capitalize | append: ' ' }}
+  {%- endfor -%}
+  {%- endcapture -%}
+
+  {%- assign lecture_type = "remote" -%}
+  {%- assign lecture_id = lecture.name -%}
+  {%- assign lecture_img = false -%}
+  {%- assign lecture_name = titlecase | strip -%}
+  {%- assign lecture_desc = lecture.description -%}
+  {%- assign lecture_url = lecture.html_url -%}
+  {%- assign lecture_tools = lecture.topics -%}
+  {%- assign external = true -%}
+
+  {% include lectures/lecture-card.html %}
+
+  {%- endif -%}
+
+  {%- endfor -%}
+
+  {% endfor %}
+
+  <!-- Local Lectures -->
+  {% for lecture in site.lectures %}
+
+  {%- assign lecture_type = "local" -%}
+  {%- assign lecture_id = lecture.name | slugify -%}
+  {%- assign lecture_img = lecture.image -%}
+  {%- assign lecture_name = lecture.name -%}
+  {%- assign lecture_desc = lecture.description -%}
+  {%- assign lecture_tools = lecture.tools -%}
+
+  {%- if lecture.external_url -%}
+  {%- assign lecture_url = lecture.external_url -%}
+  {%- assign external = true -%}
+  {%- else -%}
+  {%- assign lecture_url = lecture.url | relative_url -%}
+  {%- assign external = false -%}
+  {%- endif -%}
+
+  {% include lectures/lecture-card.html %}
+
+  {% endfor %}
+
+</div>

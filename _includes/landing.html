@@ -1,0 +1,40 @@
+<div class="row justify-content-center align-items-center p-4">
+  <div class="col-lg-4 col-md-6 text-center mt-4">
+
+    <!-- Fine Circle Responsive Image -->
+    <div id="container" class="my-2">
+      <div id="dummy"></div>
+      <div id="element">
+        <picture>
+          <source srcset="{{ site.author.dark_mode_image }}" media="(prefers-color-scheme: dark)"
+            class="circle-image dark-mode-image wow animated zoomIn" data-wow-delay=".1s">
+          <img src="{{ site.author.light_mode_image }}" alt="{{ site.title }}"
+            class="circle-image light-mode-image wow animated zoomIn" data-wow-delay=".1s">
+        </picture>
+      </div>
+    </div>
+
+    <p class="text-muted wow animated slideInUp" data-wow-delay=".15s">{{ site.description }}</p>
+
+  </div>
+</div>
+
+<style>
+  /* Hide dark mode image when light theme is active */
+  :root[data-theme="light"] .dark-mode-image {
+    display: none;
+  }
+
+  :root[data-theme="light"] .light-mode-image {
+    display: block;
+  }
+
+  /* Hide light mode image when dark theme is active */
+  :root[data-theme="dark"] .light-mode-image {
+    display: none;
+  }
+
+  :root[data-theme="dark"] .dark-mode-image {
+    display: block;
+  }
+</style>

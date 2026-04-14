@@ -1,25 +1,30 @@
-# Theme based ignores  
-
- Local Site Directories
+# Local build output
 _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
 
-# Ruby Gems
-.bundle
-Gemfile.lock
+# Bundler and vendored gems
+.bundle/
+vendor/
 
-# Log Files
+# Local logs
 *.log
 
-# Ignore Code files
+# Generated CSS artifacts
+aheil.css
+*.css.map
+
+# Editor and workspace files
 *.code-workspace
 .vscode/
-templates/*
 
-#Gemfile
-Gemfile.lock
+# Local environment files
+.env
+.env.*
 
-#node.js 
+# Dependency directories
 node_modules/
+
+# Project-specific local templates
+templates/*

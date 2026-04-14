@@ -47,6 +47,7 @@ Theoretische Grundlagen zählen nichts, ohne die zugehörige Praxis.
 - Beratung & Coaching
 - Telekommunikation
 - Healthcare
+- Klimasimulation
 - SAP Beratung
 - ITSM
 - Software-Entwicklung
@@ -66,3 +67,4 @@ Theoretische Grundlagen zählen nichts, ohne die zugehörige Praxis.
 - Produktentwicklung (Full Application Development Life-Cycle)
 - Forschung & Entwicklung
 - DevOps und DevSecOps
+- Agentic AI

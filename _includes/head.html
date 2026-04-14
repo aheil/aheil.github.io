@@ -1,10 +1,7 @@
 <head>
 
-  <!-- TODO: make generic using the head file and the page file as base, this was a quick hackory -->
-
   {% assign title = page.title | default: site.title | escape %}
   {% assign description = page.description | default: site.description | strip_html | strip_newlines | truncate: 160 %}
-  {% assign image = page.image | default: site.author.image %}
 
   {% if page.name and page.collection == 'projects' %}
   {% assign title = page.name | escape %}
@@ -17,7 +14,12 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="{{ title }}">
   <meta property="og:description" content="{{ description }}">
-  <meta property="og:image" content="{{ image }}">
+
+  {% if post.image %}
+  <meta property="og:image" content="{{ site.og_url }}/posts/img/{{ post.image }}">
+  {% else %}
+  <meta property="og:image" content="{{ site.og_url }}/{{ site.og_image }}">
+  {% endif %}
 
   <!-- Fediverse Creator -->
   <meta name="fediverse:creator" content="{{ site.fediverse_creator }}">
@@ -41,15 +43,5 @@
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="{{ '/aheil.css' | relative_url }}">
-
-  <!-- Leaflet Based Content (https://leafletjs.com/examples/quick-start/) -->
-
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
-    integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin="" />
-
-  <!-- Make sure you put this AFTER Leaflet's CSS -->
-  <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
-    integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin=""></script>
-
 
 </head>

@@ -1,10 +1,10 @@
 ### Site Settings ###
+theme               : null
 title               : aheil.de 
 description         : >-
                       Professor :man_teacher: by day, Nerd and Geek :nerd_face: by night
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : aheil/aheil.github.io             # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : aheil/portfolYOU
 
 og_url              : "https://aheil.de"
 og_image            : aheil_square.jpg
@@ -116,4 +116,7 @@ exclude:
   - "*.log"
   - .test
   - .assets/raw
+  - pages/hhn_links.html
+  - pages/lectures.html
   - node_modules
+  - vendor
