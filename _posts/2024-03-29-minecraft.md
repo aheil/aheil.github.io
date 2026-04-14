@@ -1,6 +1,6 @@
 ---
 title: The missing Link of the Minecraft Server in the Kinderzimmer
-tags: ["mindcraft"]
+tags: ["minecraft"]
 description: "Minecraft als Familienspiel" 
 ---
 
