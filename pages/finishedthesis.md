@@ -13,6 +13,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 - Rafael Sekula, _Black-Box-Testing von Massendurchflussregler_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Christian Bürkert GmbH & Co. KG), 2026
 
+- Ahmad El Mir, _Informationsqualität in Wissensmanagementsystemen auf Basis von Retrieval-Augmented Generation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (S-IT Application Engineering & Consulting GmbH), 2026
+
 ## 2025
 
 - Florian Wirt, _Konzeption, Implementierung und Bewertung eines End-to-End-Testframeworks mit Cypress für moderne Webanwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz AG), 2026
