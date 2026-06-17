@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2026
 
+- Rafael Sekula, _Black-Box-Testing von Massendurchflussregler_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Christian Bürkert GmbH & Co. KG), 2026
+
 ## 2025
 
 - Florian Wirt, _Konzeption, Implementierung und Bewertung eines End-to-End-Testframeworks mit Cypress für moderne Webanwendungen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Mercedes-Benz AG), 2026
