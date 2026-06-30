@@ -11,6 +11,8 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2026
 
+- Nico Vogel, _Opinionated Fullstack Grundgerüst für Web-Applikationen_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Foxbyte / csi Verwaltungs GmbH), 2026
+
 - Rafael Sekula, _Black-Box-Testing von Massendurchflussregler_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (Christian Bürkert GmbH & Co. KG), 2026
 
 - Ahmad El Mir, _Informationsqualität in Wissensmanagementsystemen auf Basis von Retrieval-Augmented Generation_, Bachelor Thesis (B.Sc.), Hochschule Heilbronn (S-IT Application Engineering & Consulting GmbH), 2026
