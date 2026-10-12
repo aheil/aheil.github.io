@@ -311,6 +311,14 @@
       "link": "https://www.urz.uni-heidelberg.de/de/vorsichtsmassnahmen",
       "date": "19.11.2025",
       "year": "2025"
+    },
+    { 
+      "name": "Hochschulservicezentrum Baden-Württemberg (HSZ-BW)",
+      "lat": "48.48279697013202",
+      "long": "9.188063142883035",
+      "link": "https://hsz-offline.de/",
+      "date": "07.10.2026",
+      "year": "2026"
     }
   ]
 }
