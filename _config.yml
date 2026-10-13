@@ -120,3 +120,4 @@ exclude:
   - pages/lectures.html
   - node_modules
   - vendor
+  - dev-docker

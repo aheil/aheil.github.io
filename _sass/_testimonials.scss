@@ -1,0 +1,16 @@
+// Theme variables consumed by the <student-testimonials> shadow DOM (assets/js/testimonials.js).
+student-testimonials {
+  --st-bg: #{$light};
+  --st-text: #{$text-black};
+  --st-muted: #{$secondary};
+  --st-border: #{darken($light, 8%)};
+  --st-accent: #{$secondary};
+}
+
+[data-theme="dark"] student-testimonials {
+  --st-bg: #{$dark-600};
+  --st-text: #{$text-white};
+  --st-muted: #{rgba($text-white, 0.6)};
+  --st-border: #{$dark-300};
+  --st-accent: #{rgba($text-white, 0.6)};
+}

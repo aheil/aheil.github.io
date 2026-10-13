@@ -1,0 +1,18 @@
+# Local-only Jekyll overrides, used together with _config.yml (see README, section "Lokal testen mit Docker").
+# Jekyll replaces arrays instead of merging them, so the base exclude list is repeated here.
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
+  - .test
+  - .assets/raw
+  - node_modules
+  - vendor
+  - dev-docker
+  # Local only: these pages call the GitHub API and hit its rate limit without a token
+  - pages/hhn_links.html
+  - pages/lectures.html
+  - pages/projects.html
+  # Local only: stale, gitignored build output that would shadow the freshly compiled CSS
+  - aheil.css

@@ -5,4 +5,4 @@ permalink: /
 
 {% include landing.html %}
 
-{% include newsletter.html %}
+{% include testimonials.html %}

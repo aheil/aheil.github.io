@@ -52,13 +52,8 @@ bei Amazon abmelden, bevor Sie auf dieser Website surfen. Weitere Details zum Um
 durch Amazon sind der [Datenschutzerklärung von Amazon](https://www.amazon.de/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ) zu entnehmen.
       
       
-Auf dieser Seite besteht die Möglichkeit sich bei einem durch Substack versendeten Newsletter anzumelden.
-Konkrete Details zum Umgang mit Ihren Daten bei Substack sind der [Datenschutzerklärung von Substack](https://substack.com/privacy) zu entnehmen. Wenn Sie über ein Substack-Konto verfügen und angemeldet sind, während Sie auf dieser
-Webseite surfen, können die erhobenen Daten ggf. Ihrem Account zugewiesen werden. Das verhindern Sie, indem Sie
-sich bei Substack abmelden, bevor Sie auf dieser Website surfen.
-
-#### Wofür werden Ihre Daten genutzt?
-Auf diesen Seiten übemrittelte Daten werden nur für den von Ihnen bestimmten Zwecke genutzt, z.B. für die  Zusendung eines Angebots oder dem Erhalt des Newsletters.
+#### Wofür werden Ihre Daten genutzt?
+Auf diesen Seiten übemrittelte Daten werden nur für den von Ihnen bestimmten Zwecke genutzt, z.B. für die  Zusendung einer E-Mail - sofern so etwas angeboten wird.
 
 #### Welche Rechte haben Sie bezüglich Ihrer Daten?
 
