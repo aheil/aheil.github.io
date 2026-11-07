@@ -304,7 +304,7 @@
       "date": "23.01.2025",
       "year": "2025"
     },
-    { 
+    {
       "name": "Universität Heidelberg",
       "lat": "49.41067363165701",
       "long": "8.706560886917547",
@@ -312,12 +312,28 @@
       "date": "19.11.2025",
       "year": "2025"
     },
-    { 
+    {
+      "name": "Ludwig-Maximilans-Universität München",
+      "lat": "48.152406249618764",
+      "long": "11.579665324003226",
+      "link": "https://www.lmu.de/de/newsroom/newsuebersicht/news/information-ueber-einen-datenschutzvorfall-f446c16e.html",
+      "date": "19.09.2026",
+      "year": "2026"
+    },
+    {
       "name": "Hochschulservicezentrum Baden-Württemberg (HSZ-BW)",
       "lat": "48.48279697013202",
       "long": "9.188063142883035",
       "link": "https://hsz-offline.de/",
       "date": "07.10.2026",
+      "year": "2026"
+    },
+    {
+      "name": "Hochschulservicezentrum Baden-Württemberg (HSZ-BW)",
+      "lat": "48.14933164180417",
+      "long": "11.568166972438267",
+      "link": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/it-sicherheitsvorfall-an-der-tum",
+      "date": "06.11.2026",
       "year": "2026"
     }
   ]
