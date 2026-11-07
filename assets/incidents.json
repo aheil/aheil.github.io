@@ -329,19 +329,19 @@
       "year": "2026"
     },
     {
-      "name": "Technische Universität München",
-      "lat": "48.14933164180417",
-      "long": "11.568166972438267",
-      "link": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/it-sicherheitsvorfall-an-der-tum",
-      "date": "06.11.2026",
-      "year": 2026
-    },
-    {
       "name": "Humboldt-Universität zu Berlin",
       "lat": "52.517974372871564",
       "long": "13.393644368761546",
       "link": "https://www.hu-berlin.de/medien-und-kommunikation/aktuelle-themen/it-sicherheitsvorfall-an-der-humboldt-universitaet",
       "date": "12.10.2026",
+      "year": "2026"
+    },
+    {
+      "name": "Technische Universität München",
+      "lat": "48.14933164180417",
+      "long": "11.568166972438267",
+      "link": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/it-sicherheitsvorfall-an-der-tum",
+      "date": "06.11.2026",
       "year": "2026"
     }
   ]
