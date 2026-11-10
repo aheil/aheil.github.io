@@ -11,6 +11,7 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2026
 
+- Filippo Fiorenza, _Improving R&D Efficiency in ADAS Development through Moltimodal Orchestrated Knowledge Agents"_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (Bosch Corporation Japan), 2026
 - Thi Ngoc Huong Nguyen, _SAP Clean Core Principles: Compliance Assessment and Transformation Blueprint for SAP HCM at Schwarz Digits_, Master Thesis (M.Sc.), Hochschule Heilbronn/Viatnamese-German University (Schwarz Digits KG), 2006
 
 - Lisa Schiedel, _Designing Reusable Data Products: A Platform-Centered Approach to Implementing the Data Mesh Paradigm_, Master Thesis (M.Sc.), Hochschule Heilbronn/Universität Heidelberg (ZEAG Energie AG), 2026
