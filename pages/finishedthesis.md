@@ -11,6 +11,9 @@ Im Folgenden sind sämtliche von mir betreuten und erfolgreich abgeschlossenen A
 
 ## 2026
 
+- Beytullah Köse, _Konzeption und Implementierung einer KI-gestützten Pipeline zur
+automatisierten Aufbereitung massiver Datensätze_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (sMOTIVE GmbH), 2026
+
 - Benno Dinsch, _Konzeption und prototypische Evaluation einer Architektur zur effizienten Historisierung industrieller Maschinendaten_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (Behringer GmbH), 2026
 
 - Filippo Fiorenza, _Improving R&D Efficiency in ADAS Development through Moltimodal Orchestrated Knowledge Agents"_, Bachelor Thesis (B. Sc.), Hochschule Heilbronn (Bosch Corporation Japan), 2026
