@@ -337,11 +337,35 @@
       "year": "2026"
     },
     {
+      "name": "Martin-Luther-Universität Halle-Wittenberg",
+      "lat": "51.48669416040943",
+      "long": "11.9695467895819",
+      "link": "https://www.uni-halle.de/datenschutzvorfall/",
+      "date": "14.10.2026",
+      "year": "2026"
+    },
+    {
+      "name": "Universität Leipzig",
+      "lat": "51.338714523790706",
+      "long": "12.378472226496488",
+      "link": "https://www.uni-leipzig.de/angriff-auf-die-it-systeme/",
+      "date": "28.10.2026",
+      "year": "2026"
+    },
+    {
       "name": "Technische Universität München",
       "lat": "48.14933164180417",
       "long": "11.568166972438267",
       "link": "https://www.tum.de/aktuelles/alle-meldungen/pressemitteilungen/details/it-sicherheitsvorfall-an-der-tum",
       "date": "06.11.2026",
+      "year": "2026"
+    },
+    {
+      "name": "Universität Tübingen",
+      "lat": "48.52521467796102,",
+      "long": "9.057244682175366",
+      "link": "https://uni-tuebingen.de/universitaet/aktuelles-und-publikationen/pressemitteilung/it-sicherheitsvorfall-an-der-universitaet-tuebingen/",
+      "date": "10.11.2026",
       "year": "2026"
     }
   ]
